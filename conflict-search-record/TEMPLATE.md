@@ -1,6 +1,6 @@
 # Conflict search record
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -440,4 +440,4 @@ The firm writes these. The template ships no search rule and no word lists, and 
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it records searches and gives no view on any conflict. Revised the same day after a separate review of the legal boundary: the head of the record, the note to the conflicts clerk and the instruction block's closing lines now carry the three statements in full (no legal advice; nothing decided about legal meaning, merit, validity, privilege, conflicts or deadlines; nothing sent, filed, signed or calendared); the stop on an unapproved search rule no longer says what an attorney may rely on; the reason a name matched is given mechanically; questions and requests after the record get fixed replies that name the responsible attorney and point to a line, and restate, select or suggest nothing; a case, statute or rule offered as a reason, or found in an export note, is marked "to be verified by the lawyer" and changes nothing. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it records searches and gives no view on any conflict. Revised the same day after a separate review of the legal boundary: the head of the record, the note to the conflicts clerk and the instruction block's closing lines now carry the three statements in full (no legal advice; nothing decided about legal meaning, merit, validity, privilege, conflicts or deadlines; nothing sent, filed, signed or calendared); the stop on an unapproved search rule no longer says what an attorney may rely on; the reason a name matched is given mechanically; questions and requests after the record get fixed replies that name the responsible attorney and point to a line, and restate, select or suggest nothing; a case, statute or rule offered as a reason, or found in an export note, is marked "to be verified by the lawyer" and changes nothing. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

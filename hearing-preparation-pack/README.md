@@ -67,11 +67,11 @@ We sit with the paralegal who builds the packs and the attorneys who argue from 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on a published hearing preparation method credited in its sources, with that method's issue analysis, legal standards, examination questions and strategic assessment taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, the wording was tightened after an independent review, and it was then run again the same day on the template as it now stands, together with its deposition variant on invented inputs. The record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published hearing preparation method credited in its sources, with that method's issue analysis, legal standards, examination questions and strategic assessment taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, the wording was tightened after an independent review, and it was then run again the same day on the template as it now stands, together with its deposition variant on invented inputs. The record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past hearings your attorneys remember well, plus hard cases written in advance: a docket entry that moves the hearing, an order listed but not supplied, a count with a court closure inside it, a gap in the exhibit numbers, two declarations that disagree, and a request to say which argument is strongest. The paralegal checks every cite and recounts every proposed date before the pack goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -102,4 +102,4 @@ Testing in your firm means running it on two or three past hearings your attorne
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

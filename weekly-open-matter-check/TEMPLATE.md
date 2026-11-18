@@ -380,4 +380,4 @@ when one was not.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from its own built example of this check, which used invented records. This version works from exported files only. It states the column headers it expects, so the stop on a renamed column can be applied the same way every time. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own built example of this check, which used invented records. This version works from exported files only. It states the column headers it expects, so the stop on a renamed column can be applied the same way every time. Not yet tested in a client environment.

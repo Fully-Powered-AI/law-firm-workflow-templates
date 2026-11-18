@@ -1,6 +1,6 @@
 # Matter closing checklist preparation
 
-Workflow template 0.1.0. Written by Fully Powered AI.
+Workflow template 0.1.0. Written by FullyPowered AI.
 
 ## Purpose
 
@@ -271,4 +271,4 @@ an empty section. Add no fact that is not in the inputs.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example on 10 November 2026: a first run found defects and the instructions, output format and example were revised. After an independent review the instructions and output format were revised again in small ways (exceptions for a named related matter, the outcome cut-off, the billed-total label, an optional previous checklist for reruns), and a third run is the one recorded in the trial. That run was made by the model that made the revisions, so it is not an independent check. No edit was made to the instructions, output format or example after the recorded run. Not yet tested in a client environment and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 10 November 2026: a first run found defects and the instructions, output format and example were revised. After an independent review the instructions and output format were revised again in small ways (exceptions for a named related matter, the outcome cut-off, the billed-total label, an optional previous checklist for reruns), and a third run is the one recorded in the trial. That run was made by the model that made the revisions, so it is not an independent check. No edit was made to the instructions, output format or example after the recorded run. Not yet tested in a client environment and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

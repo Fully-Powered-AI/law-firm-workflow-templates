@@ -1,6 +1,6 @@
 # Court-order deadline notice preparation
 
-Workflow template 0.1.0 · Operations and process improvement · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Operations and process improvement · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -335,4 +335,4 @@ The firm writes these. The template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 9 November 2026 · Written by Fully Powered AI from its own built example for an invented firm and court. Editorially reviewed. Published as preparation only: every counted date is a proposed date for an attorney to confirm, and the template carries no court rules. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 9 November 2026 · Written by FullyPowered AI from its own built example for an invented firm and court. Editorially reviewed. Published as preparation only: every counted date is a proposed date for an attorney to confirm, and the template carries no court rules. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

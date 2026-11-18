@@ -1,6 +1,6 @@
 # Citation and quotation check
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -492,4 +492,4 @@ The firm or the legal department writes these. The template supplies none of the
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI in its own words, drawing on two published methods named in its sources. Editorially reviewed, and revised the same day after a review of its legal boundary. Not reviewed by a lawyer. Published as preparation only: results say what was compared with the supplied text, and every good-law check is left for the lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI in its own words, drawing on two published methods named in its sources. Editorially reviewed, and revised the same day after a review of its legal boundary. Not reviewed by a lawyer. Published as preparation only: results say what was compared with the supplied text, and every good-law check is left for the lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

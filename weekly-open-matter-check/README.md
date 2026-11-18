@@ -53,11 +53,11 @@ Name who keeps the roster and how old it may be before the check waits for a new
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own built example of this check, which used invented records. It was editorially reviewed on 9 November 2026. It was tried on its invented example in two runs, one on a first draft and one on the revised instructions, and the record is published with it. The instructions had small edits after the second run, which the record lists. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own built example of this check, which used invented records. It was editorially reviewed on 9 November 2026. It was tried on its invented example in two runs, one on a first draft and one on the revised instructions, and the record is published with it. The instructions had small edits after the second run, which the record lists. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past weeks your operations manager already checked by hand, with cases written in advance: a matter missing from the export, a roster that is two weeks old, a done task with an old due date, a task due on the check date. The manager checks the coverage line against the roster and one matter's counts against the case system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -88,4 +88,4 @@ Testing in your environment means running it on past weeks your operations manag
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

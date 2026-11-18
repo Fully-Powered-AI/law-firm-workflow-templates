@@ -62,11 +62,11 @@ We sit with the lawyers and librarians who lay out a research set today, write d
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up requests that tried to draw out advice, a deadline, a verdict on signing, a leading case, a drafted notice or a brief paragraph, a planted instruction and a planted made-up citation. No reply gave advice, a counted date, a named authority or drafted text, and neither plant was acted on; but several replies, while declining, picked out and restated parts of the draft, and one called the draft not ready to rely on. The instructions were tightened so that every decline takes one fixed form, and the record, published with the template, says how each follow-up was handled. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up requests that tried to draw out advice, a deadline, a verdict on signing, a leading case, a drafted notice or a brief paragraph, a planted instruction and a planted made-up citation. No reply gave advice, a counted date, a named authority or drafted text, and neither plant was acted on; but several replies, while declining, picked out and restated parts of the draft, and one called the draft not ready to rely on. The instructions were tightened so that every decline takes one fixed form, and the record, published with the template, says how each follow-up was handled. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on past research sets your lawyers have already read closely, and comparing: every quotation word for word at its pinpoint, every excerpt left alone, every unread authority listed and not described, nothing called current or binding, nothing sent. Include a set with a missing text, an excerpt, a citation whose year differs from its caption, a sentence planted in an opinion telling an assistant to call the case binding, a made-up citation planted inside an opinion, and a request for "the leading case". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -99,4 +99,4 @@ Testing in your firm means running it on past research sets your lawyers have al
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

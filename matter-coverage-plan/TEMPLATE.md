@@ -1,6 +1,6 @@
 # Matter coverage plan for absences
 
-Workflow template 0.1.0 · Operations and process improvement · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Operations and process improvement · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -635,4 +635,4 @@ The firm writes these. The template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own published map of law-firm work. Editorially reviewed. Published as preparation only: every cover is a proposal for the practice lead, a lawyer who is not the person away; every date is copied from the firm's attorney-confirmed records; the screen list is read, never judged, a row it cannot read counts against everyone it names, and each cover's conflict check is left to the confirming lawyer; every confirming lawyer is checked as a lawyer and against the screen list; no message, letter or notice is written for anyone, and a request for a verdict gets only the named lawyer and the line of the plan. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own published map of law-firm work. Editorially reviewed. Published as preparation only: every cover is a proposal for the practice lead, a lawyer who is not the person away; every date is copied from the firm's attorney-confirmed records; the screen list is read, never judged, a row it cannot read counts against everyone it names, and each cover's conflict check is left to the confirming lawyer; every confirming lawyer is checked as a lawyer and against the screen list; no message, letter or notice is written for anyone, and a request for a verdict gets only the named lawyer and the line of the plan. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -1,6 +1,6 @@
 # Authority comparison table
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -520,4 +520,4 @@ The firm or legal team decides these. The template supplies no authorities and n
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own published map of law-firm work. Editorially reviewed. Published as preparation for a lawyer only: it quotes and locates, adds no authority, counts no date, and calls none current or binding. After a separate review of the legal boundary, every decline takes one fixed form (the request, the lawyer by name, one pointer to the draft) and the no-lawyer stop has fixed wording, because replies in the trial picked out and restated material when declining. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own published map of law-firm work. Editorially reviewed. Published as preparation for a lawyer only: it quotes and locates, adds no authority, counts no date, and calls none current or binding. After a separate review of the legal boundary, every decline takes one fixed form (the request, the lawyer by name, one pointer to the draft) and the no-lawyer stop has fixed wording, because replies in the trial picked out and restated material when declining. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

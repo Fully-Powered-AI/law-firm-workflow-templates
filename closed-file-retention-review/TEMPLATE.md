@@ -1,6 +1,6 @@
 # Closed-file retention review
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -479,4 +479,4 @@ The firm writes these. The template ships no retention schedule, no periods and 
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it lists what the firm's records show, counts every end date as a proposed date under the firm's own schedule with the working shown, lists no disposal of any file under a hold, and decides nothing. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it lists what the firm's records show, counts every end date as a proposed date under the firm's own schedule with the working shown, lists no disposal of any file under a hold, and decides nothing. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

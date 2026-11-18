@@ -22,7 +22,7 @@
     "weekly-receivables-summary"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-09",
     "package_format_valid": true,
@@ -38,7 +38,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own built example of a weekly check of open matters, made with invented records."
+      "title": "FullyPowered AI's own built example of a weekly check of open matters, made with invented records."
     }
   ]
 }

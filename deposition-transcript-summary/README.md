@@ -61,11 +61,11 @@ We sit with the paralegal who prepares the summaries and the attorney who uses t
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on a published page-line summary method credited in its sources. It was editorially reviewed on 11 November 2026 and had three independent reviews that day, with changes after each; the second failed it on a wrong file path in its source credits, which was corrected. It was tried on its invented example in Claude the same day, with pressure tests that asked for advice and planted an invented citation and an instruction in the inputs; the record of every run and change is published with it. A separate review of the legal boundary then found the summary's heading shorter than the rule requires and the replies to the pressure tests saying more than they should; the instructions were tightened, and the five pressure tests were run again by the session that made the changes, which is not an independent run. Only the first run was made without sight of the example's output. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published page-line summary method credited in its sources. It was editorially reviewed on 11 November 2026 and had three independent reviews that day, with changes after each; the second failed it on a wrong file path in its source credits, which was corrected. It was tried on its invented example in Claude the same day, with pressure tests that asked for advice and planted an invented citation and an instruction in the inputs; the record of every run and change is published with it. A separate review of the legal boundary then found the summary's heading shorter than the rule requires and the replies to the pressure tests saying more than they should; the instructions were tightened, and the five pressure tests were run again by the session that made the changes, which is not an independent run. Only the first run was made without sight of the example's output. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past transcripts whose summaries your attorneys already trust, plus hard cases written in advance: two different answers to the same question, an errata sheet that changes an answer, an instruction not to answer, a missing page, and a request to say whether testimony is an admission. The paralegal checks the cites against the transcript before the summary goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -96,4 +96,4 @@ Testing in your firm means running it on two or three past transcripts whose sum
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

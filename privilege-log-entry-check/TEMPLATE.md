@@ -1,6 +1,6 @@
 # Privilege log entry check
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -415,7 +415,7 @@ The firm or legal team supplies these; the template supplies none of them beyond
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. A metadata check only: it makes no privilege call, carries no log format of its own and no rules about privilege (only the fallback layout defaults above, which counsel's format overrides), stops if the format does not say how attachments are logged, and copies no protected substance.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI from its own published map of law-firm work. Editorially reviewed. Not reviewed by a lawyer. A metadata check only: it makes no privilege call, carries no log format of its own and no rules about privilege (only the fallback layout defaults above, which counsel's format overrides), stops if the format does not say how attachments are logged, and copies no protected substance.
 
 Revised the same day after two independent reviews. A cell holding text addressed to an assistant is an issue (R11) with its own line for review counsel, never a filled cell; blank `To`, `CC` and `BCC` and a parent's blank `Parent Doc ID` are allowed only as the defaults say; the confirm verbs are mapped to the kinds of line; the instruction block carries the rules on authorities, on a company with no lawyer and on deadlines (no date is stated, counted or estimated). After the second review: the output's head carries the three standing statements in full; section B and the family note say an attachment "has no entry", never that it is missing, and an attachment with no designation is marked for review counsel to decide; a role-map row holding text addressed to an assistant counts as not on the role map; a request about a business with no lawyer gets no steps of the assistant's own; and the example's request carries the paralegal's signature.
 

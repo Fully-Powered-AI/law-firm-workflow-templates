@@ -1,6 +1,6 @@
 # Document production index and summaries
 
-Workflow template 0.1.0 · Legal and contracts · Law firms · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · Law firms · FullyPowered AI
 
 ## Purpose
 
@@ -501,4 +501,4 @@ The legal team writes these. The template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI, drawing on a published discovery document summary method credited in its sources. Editorially reviewed. Prepares a draft for review counsel only: it holds every family that matches counsel's screen list by Bates number only, summarises what each other document states with a Bates number on every statement, lists missing documents and differing passages without judging them, and decides, sends, files, signs and calendars nothing. Not reviewed by a lawyer. Tried on its invented example in Claude on 11 November 2026; the record of that run, which replaced an earlier one from the same day, is published with the template. Edited after that run, without a re-run, to settle choices the run recorded in the way it made them, and to keep held documents last in an index arranged by date or custodian. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI, drawing on a published discovery document summary method credited in its sources. Editorially reviewed. Prepares a draft for review counsel only: it holds every family that matches counsel's screen list by Bates number only, summarises what each other document states with a Bates number on every statement, lists missing documents and differing passages without judging them, and decides, sends, files, signs and calendars nothing. Not reviewed by a lawyer. Tried on its invented example in Claude on 11 November 2026; the record of that run, which replaced an earlier one from the same day, is published with the template. Edited after that run, without a re-run, to settle choices the run recorded in the way it made them, and to keep held documents last in an index arranged by date or custodian. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

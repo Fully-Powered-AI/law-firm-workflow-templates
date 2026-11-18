@@ -54,11 +54,11 @@ Replace the default column headers with the ones your firm's log really uses, so
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, taking the idea of a law-school clinic's review queue from two published versions under the Apache-2.0 licence and turning it into a status log for a firm. It was editorially reviewed on 10 November 2026. The update shown in the example was worked through by hand from the template's rules. The template was then tried once on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a law firm, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, taking the idea of a law-school clinic's review queue from two published versions under the Apache-2.0 licence and turning it into a status log for a firm. It was editorially reviewed on 10 November 2026. The update shown in the example was worked through by hand from the template's rules. The template was then tried once on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a law firm, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on a past week your operations manager remembers well, with cases written in advance: an approval passed on by a paralegal, an item sent before it was approved, a return two days before the date, an item due on a Monday checked on the Thursday before. The operations manager checks every status against the attorneys' own messages before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and the [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/) is the companion routine for the tasks on each matter.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -89,4 +89,4 @@ Testing in your firm means running it on a past week your operations manager rem
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
