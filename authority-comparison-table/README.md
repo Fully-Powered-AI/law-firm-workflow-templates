@@ -1,10 +1,17 @@
 # Authority comparison table
 
-From the opinions, statutes and regulations counsel selected, and only those, the researching lawyer gets one side-by-side table: each authority's court, date, stated issue, operative words, posture and separate opinions, quoted with pinpoints, and a list of every quotation to check. The lawyer decides what applies.
+Get a side-by-side table of the authorities counsel selected, quoted with pinpoints and a list of quotations to check, for counsel's review.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/authority-comparison-table/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Authority comparison table on our website](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/authority-comparison-table/?from=gh-law-firm-authority-comparison-table)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ This is preparation for a lawyer, and it stays preparation. It gives no legal ad
 
 Once the authorities for a defined question have been chosen and their texts gathered, the researching lawyer runs it, or hands it to a research librarian or paralegal, before the close reading and the writing begin. Whoever runs it, the draft goes to a lawyer by name. At a firm that is the researching lawyer; at a company it is in-house counsel, and where a company has no lawyer of its own, the outside counsel it instructs. A business never receives it as an answer.
 
-It is not for finding or choosing authorities (a [research plan for counsel](https://fullypowered.ai/workflows/research-plan-for-counsel/) comes before it), for reports and articles, or for checking the citations and quotations in a finished draft ([citation and quotation check](https://fullypowered.ai/workflows/citation-and-quotation-check/) prepares that check). Neither workflow template says whether an authority is still good law; the lawyer checks that through the firm's own citation checks.
+It is not for finding or choosing authorities (a [research plan for counsel](https://fullypowered.ai/workflows/research-plan-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) comes before it), for reports and articles, or for checking the citations and quotations in a finished draft ([citation and quotation check](https://fullypowered.ai/workflows/citation-and-quotation-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) prepares that check). Neither workflow template says whether an authority is still good law; the lawyer checks that through the firm's own citation checks.
 
 ## What they supply
 
@@ -47,14 +54,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the careful, repeatable step between choosing authorities and reading them closely, run the same way every time.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where associates and research librarians lay out a set of opinions for every question that matters before anyone writes.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where in-house counsel compares the opinions and regulations on a coverage or policy question before advising the business.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where counsel sets regulations and the decisions on them side by side before a new product or rule change.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the way a set is laid out lives in one senior lawyer's habits and deserves to be written down.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a company entering a regulated area asks counsel to read the rules that will govern it.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table): the careful, repeatable step between choosing authorities and reading them closely, run the same way every time.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table), where associates and research librarians lay out a set of opinions for every question that matters before anyone writes.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table), where in-house counsel compares the opinions and regulations on a coverage or policy question before advising the business.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table), where counsel sets regulations and the decisions on them side by side before a new product or rule change.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table), where the way a set is laid out lives in one senior lawyer's habits and deserves to be written down.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table), when a company entering a regulated area asks counsel to read the rules that will govern it.
 
-For reports, articles and studies rather than legal sources, [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/) is the matching workflow template, and it does weigh what the sources mean together, which this one never does. [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/) follows the same discipline for court orders: quote, locate and hand the decision to a lawyer.
+For reports, articles and studies rather than legal sources, [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) is the matching workflow template, and it does weigh what the sources mean together, which this one never does. [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) follows the same discipline for court orders: quote, locate and hand the decision to a lawyer.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ We sit with the lawyers and librarians who lay out a research set today, write d
 
 FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up requests that tried to draw out advice, a deadline, a verdict on signing, a leading case, a drafted notice or a brief paragraph, a planted instruction and a planted made-up citation. No reply gave advice, a counted date, a named authority or drafted text, and neither plant was acted on; but several replies, while declining, picked out and restated parts of the draft, and one called the draft not ready to rely on. The instructions were tightened so that every decline takes one fixed form, and the record, published with the template, says how each follow-up was handled. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past research sets your lawyers have already read closely, and comparing: every quotation word for word at its pinpoint, every excerpt left alone, every unread authority listed and not described, nothing called current or binding, nothing sent. Include a set with a missing text, an excerpt, a citation whose year differs from its caption, a sentence planted in an opinion telling an assistant to call the case binding, a made-up citation planted inside an opinion, and a request for "the leading case". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past research sets your lawyers have already read closely, and comparing: every quotation word for word at its pinpoint, every excerpt left alone, every unread authority listed and not described, nothing called current or binding, nothing sent. Include a set with a missing text, an excerpt, a citation whose year differs from its caption, a sentence planted in an opinion telling an assistant to call the case binding, a made-up citation planted inside an opinion, and a request for "the leading case". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,12 +100,12 @@ Testing in your firm means running it on past research sets your lawyers have al
 
 ## Related workflow templates
 
-- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table)
 - [Court-order deadline notice preparation](../court-order-deadline-notice-preparation/)
 - [Citation and quotation check](../citation-and-quotation-check/)
 - [Research plan for counsel](../research-plan-for-counsel/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table).

@@ -1,10 +1,17 @@
 # Matter-opening checklist preparation
 
-Every accepted matter goes into setup and billing with one checklist: the fields each system needs, the terms that drive the first invoice, the documents on file and an owner for every open item.
+Get one checklist for every accepted matter: system fields, billing terms from the engagement letter, documents on file and an owner for each open item.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Matter-opening checklist preparation on our website](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?from=gh-matter-opening-checklist-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation)*
 
 ## The outcome
 
@@ -25,7 +32,7 @@ The firm administrator starts it once the responsible attorney has accepted the 
 
 ## What comes out
 
-A checklist in four parts: matter fields ready to enter, billing terms with their source clause, documents on file, and open items with an owner and the step each blocks. The example continues [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/) at the same invented 40-person litigation and employment firm.
+A checklist in four parts: matter fields ready to enter, billing terms with their source clause, documents on file, and open items with an owner and the step each blocks. The example continues [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) at the same invented 40-person litigation and employment firm.
 
 Good means the billing coordinator sets up billing without rereading the engagement letter, and sees the two answers that stand between Matter 26-0412 and a correct first invoice.
 
@@ -33,12 +40,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the step between acceptance and the first time entry.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): account or engagement opening after a signed proposal.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): project setup before staff book time.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/): the handoff crosses three roles and several systems.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): billing terms are set once, from the agreed source.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/): two firms with two opening routines move to one standard.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): the step between acceptance and the first time entry.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): account or engagement opening after a signed proposal.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): project setup before staff book time.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): the handoff crosses three roles and several systems.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): billing terms are set once, from the agreed source.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): two firms with two opening routines move to one standard.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ We map the path from acceptance to first invoice with the firm administrator, th
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means preparing checklists for recently opened matters and comparing them with what billing needed, including a fixed-fee matter and one with no agreed letter, which should stop. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means preparing checklists for recently opened matters and comparing them with what billing needed, including a fixed-fee matter and one with no agreed letter, which should stop. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your firm means preparing checklists for recently opened matters and 
 ## Related workflow templates
 
 - [Inquiry handoff](../inquiry-handoff/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
-- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation).

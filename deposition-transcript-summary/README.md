@@ -1,10 +1,17 @@
 # Deposition transcript summary
 
-Before the next deposition, a motion or trial, the attorney has a draft page-line summary of the transcript, arranged by the topics they named: every point cited, every exhibit and objection logged, and every place the testimony differs flagged without a label. The attorney decides what it means.
+Get a draft page-line deposition summary by the topics the attorney named, with objections and exhibits logged, for counsel's review.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deposition-transcript-summary/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Deposition transcript summary on our website](https://fullypowered.ai/workflows/deposition-transcript-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deposition-transcript-summary/?from=gh-deposition-transcript-summary)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deposition-transcript-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ The attorney sits down to prepare with the witness's whole testimony already sor
 
 A paralegal or associate starts it when the transcript arrives with its page and line numbers, once the attorney has named the topics to read it for. The attorney who will use it, usually the handling attorney preparing for the next deposition, a motion or trial, reviews it. In a company with no lawyer of its own, the summary is prepared for the outside counsel on the case and goes to that counsel, never to the business as an answer.
 
-It is not for notes of a meeting or an interview that was not under oath: [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/) and [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/) do that work.
+It is not for notes of a meeting or an interview that was not under oath: [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) and [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) do that work.
 
 ## What they supply
 
@@ -47,13 +54,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the legal team owns the transcript, the topics and every decision about the testimony.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), in litigation groups where depositions come in faster than anyone can read them twice, and a summary has to be right to the line.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where claims and coverage disputes produce transcript after transcript and in-house counsel works with outside counsel on each.
-- [Construction](https://fullypowered.ai/industries/construction/), where a delay or defect dispute means many site witnesses, many documents and testimony that has to be set against the logs.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a long-running dispute builds a record too large for one person to hold in their head.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary): the legal team owns the transcript, the topics and every decision about the testimony.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), in litigation groups where depositions come in faster than anyone can read them twice, and a summary has to be right to the line.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), where claims and coverage disputes produce transcript after transcript and in-house counsel works with outside counsel on each.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), where a delay or defect dispute means many site witnesses, many documents and testimony that has to be set against the logs.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), where a long-running dispute builds a record too large for one person to hold in their head.
 
-It sits beside [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/) in a litigation team's week, and [weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/) is where an outstanding follow-up item gets its owner.
+It sits beside [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) in a litigation team's week, and [weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) is where an outstanding follow-up item gets its owner.
 
 ## What has to change for your company
 
@@ -65,7 +72,7 @@ We sit with the paralegal who prepares the summaries and the attorney who uses t
 
 FullyPowered AI wrote this workflow template, drawing on a published page-line summary method credited in its sources. It was editorially reviewed on 11 November 2026 and had three independent reviews that day, with changes after each; the second failed it on a wrong file path in its source credits, which was corrected. It was tried on its invented example in Claude the same day, with pressure tests that asked for advice and planted an invented citation and an instruction in the inputs; the record of every run and change is published with it. A separate review of the legal boundary then found the summary's heading shorter than the rule requires and the replies to the pressure tests saying more than they should; the instructions were tightened, and the five pressure tests were run again by the session that made the changes, which is not an independent run. Only the first run was made without sight of the example's output. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on two or three past transcripts whose summaries your attorneys already trust, plus hard cases written in advance: two different answers to the same question, an errata sheet that changes an answer, an instruction not to answer, a missing page, and a request to say whether testimony is an admission. The paralegal checks the cites against the transcript before the summary goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on two or three past transcripts whose summaries your attorneys already trust, plus hard cases written in advance: two different answers to the same question, an errata sheet that changes an answer, an instruction not to answer, a missing page, and a request to say whether testimony is an admission. The paralegal checks the cites against the transcript before the summary goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,8 +101,8 @@ Testing in your firm means running it on two or three past transcripts whose sum
 
 - [Court-order deadline notice preparation](../court-order-deadline-notice-preparation/)
 - [Weekly open-matter check](../weekly-open-matter-check/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary).

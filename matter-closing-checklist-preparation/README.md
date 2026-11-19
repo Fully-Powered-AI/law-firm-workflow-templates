@@ -1,10 +1,17 @@
 # Matter closing checklist preparation
 
-When the handling lawyer flags a matter for closure, the firm's closing checklist is filled from the matter record: final billing as recorded, open tasks, unreturned items and the handoffs billing and records must accept.
+When a lawyer flags a matter for closure, get one checklist of billing, open tasks, unreturned items and handoffs. The attorney decides whether it closes.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Matter closing checklist preparation on our website](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?from=gh-matter-closing-checklist-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation)*
 
 ## The outcome
 
@@ -37,18 +44,18 @@ One checklist in a fixed order: the matter, the outcome as the attorney stated i
 
 Good means the records clerk can accept or return the handoff without phoning anyone, and the attorney sees in one minute what stands between the matter and closure.
 
-It is a different piece of work from [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/), which sets a matter up, and from [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/), which watches every open matter; this one prepares the end of a single matter. Billing figures that feed it can come from [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/).
+It is a different piece of work from [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation), which sets a matter up, and from [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation), which watches every open matter; this one prepares the end of a single matter. Billing figures that feed it can come from [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation).
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the step between the attorney's decision to close and the file leaving the active list.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): engagement closure with billing and records handoffs.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): project close-out, with drawings and client property returned.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/): the handoff crosses attorney, billing and records, and a checklist keeps all three on one page.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): final invoices, unbilled time and funds held are shown as recorded before billing accepts the file.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a closing routine that lives in one clerk's habits is moved onto a page.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): the step between the attorney's decision to close and the file leaving the active list.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): engagement closure with billing and records handoffs.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): project close-out, with drawings and client property returned.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): the handoff crosses attorney, billing and records, and a checklist keeps all three on one page.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): final invoices, unbilled time and funds held are shown as recorded before billing accepts the file.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): a closing routine that lives in one clerk's habits is moved onto a page.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ In professional services and engineering firms the same page serves engagement o
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs: the first found defects and the instructions, output format and example were revised; after an independent review the instructions were revised again in small ways. The record of the third run, made by the model that made the revisions, is published with it. The trial exercised one of the nine acceptance tests. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means preparing checklists for a few recently closed matters and comparing them with what billing and records found, including a matter with an unpaid invoice, one with client property still out, and one flagged with no attorney outcome, which should stop. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means preparing checklists for a few recently closed matters and comparing them with what billing and records found, including a matter with an unpaid invoice, one with client property still out, and one flagged with no attorney outcome, which should stop. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,4 +103,4 @@ Testing in your firm means preparing checklists for a few recently closed matter
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation).

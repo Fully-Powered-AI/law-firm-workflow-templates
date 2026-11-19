@@ -1,10 +1,17 @@
 # Conflict search record
 
-Before the responsible attorney decides on a new matter, the conflicts clerk has a draft search record: every name searched with its aliases and related entities, every possible match with its source matter and why it matched, the names still to search, and the limits of the search. It clears nothing.
+A draft record of every name searched, each possible match and the limits of the search, for counsel's review. It clears nothing and gives no advice.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/conflict-search-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Conflict search record on our website](https://fullypowered.ai/workflows/conflict-search-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/conflict-search-record/?from=gh-law-firm-conflict-search-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/conflict-search-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ This is preparation for a lawyer, and it stays preparation. What it does not do:
 
 The conflicts clerk starts it once a new inquiry's party list is ready and the conflicts export has been run, usually the same morning. It runs again each time a missing name arrives, and when a new party joins an open matter. The responsible attorney reviews it.
 
-The party list normally comes from [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/). This workflow template picks up where that packet ends and does not rebuild it. It is not for a lateral hire's list of former matters, for telling the prospective client anything, or for writing a consent, a waiver request or a decline letter. Asked "are we clear?", "can we take this?" or what to do, it gives one fixed reply: that is for the responsible attorney, named, with a pointer to the line of the record the question is about. It restates, selects and suggests nothing.
+The party list normally comes from [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record). This workflow template picks up where that packet ends and does not rebuild it. It is not for a lateral hire's list of former matters, for telling the prospective client anything, or for writing a consent, a waiver request or a decline letter. Asked "are we clear?", "can we take this?" or what to do, it gives one fixed reply: that is for the responsible attorney, named, with a pointer to the line of the record the question is about. It restates, selects and suggests nothing.
 
 ## What they supply
 
@@ -44,13 +51,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the search every new matter waits on, prepared the same way each time.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/): a written record of what was searched and what was not, kept with the attorney's decision.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where the conflicts desk searches every new inquiry before anyone agrees to act.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when inquiries arrive faster than one clerk can search and write up by hand.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of matters, renamed clients and older paper records make the limits of a search matter as much as its results.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record): the search every new matter waits on, prepared the same way each time.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record): a written record of what was searched and what was not, kept with the attorney's decision.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), where the conflicts desk searches every new inquiry before anyone agrees to act.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), when inquiries arrive faster than one clerk can search and write up by hand.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), where years of matters, renamed clients and older paper records make the limits of a search matter as much as its results.
 
-It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/) and comes before [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/), once the attorney has accepted the matter.
+It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) and comes before [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), once the attorney has accepted the matter.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ We sit with your conflicts clerk and the attorney who owns the procedure, write 
 
 FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past inquiries whose searches your conflicts team already completed, and comparing: every match the clerk found is listed, nothing outside the rule is listed, every gap the clerk knew about appears as a further search, and no line says anything about whether a match is a conflict. Include a renamed company, a hyphenated surname, an export note that says "cleared" and a request to mark the search clear. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past inquiries whose searches your conflicts team already completed, and comparing: every match the clerk found is listed, nothing outside the rule is listed, every gap the clerk knew about appears as a further search, and no line says anything about whether a match is a conflict. Include a renamed company, a hyphenated surname, an export note that says "cleared" and a request to mark the search clear. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,4 +101,4 @@ Testing in your firm means running it on past inquiries whose searches your conf
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record).

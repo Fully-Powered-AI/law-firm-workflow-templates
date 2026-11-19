@@ -1,10 +1,17 @@
 # Weekly open-matter check
 
-Every Monday the operations manager sees every open matter: which tasks are overdue, which have no owner, and which matters could not be checked at all. The managing partner gets one summary, and each responsible attorney gets a note that is drafted and ready for the manager to send.
+Every Monday see which tasks are overdue, which have no owner and which matters could not be checked. Notes are drafted; the manager sends them.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-open-matter-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Weekly open-matter check on our website](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/weekly-open-matter-check/?from=gh-law-firm-weekly-open-matter-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check)*
 
 ## The outcome
 
@@ -44,10 +51,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where each matter has a responsible attorney and a quiet matter is the one that causes trouble.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the same check works on engagements or projects, each with a responsible partner or lead.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which owns the weekly rhythm and the follow-up.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the check depends on one person's Monday morning and does not happen when that person is away.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), where each matter has a responsible attorney and a quiet matter is the one that causes trouble.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), where the same check works on engagements or projects, each with a responsible partner or lead.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), which owns the weekly rhythm and the follow-up.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), where the check depends on one person's Monday morning and does not happen when that person is away.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ Name who keeps the roster and how old it may be before the check waits for a new
 
 FullyPowered AI wrote this workflow template from its own built example of this check, which used invented records. It was editorially reviewed on 9 November 2026. It was tried on its invented example in two runs, one on a first draft and one on the revised instructions, and the record is published with it. The instructions had small edits after the second run, which the record lists. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks your operations manager already checked by hand, with cases written in advance: a matter missing from the export, a roster that is two weeks old, a done task with an old due date, a task due on the check date. The manager checks the coverage line against the roster and one matter's counts against the case system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past weeks your operations manager already checked by hand, with cases written in advance: a matter missing from the export, a roster that is two weeks old, a done task with an old due date, a task due on the check date. The manager checks the coverage line against the roster and one matter's counts against the case system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,9 +92,9 @@ Testing in your environment means running it on past weeks your operations manag
 ## Related workflow templates
 
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
-- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check).

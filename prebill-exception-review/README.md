@@ -1,10 +1,17 @@
 # Prebill exception review
 
-Before the billing attorney opens a prebill, the billing coordinator has every awkward entry marked: rates that differ from the firm's rate table, possible duplicates, entries outside the client's billing guidelines, unclear narratives and expenses without support, each sent to the person who acts next.
+Before the billing attorney opens a prebill, every awkward entry is marked and sent to the person who acts next. The billing attorney decides.
 
-*Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prebill-exception-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Prebill exception review on our website](https://fullypowered.ai/workflows/prebill-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/prebill-exception-review/?from=gh-law-firm-prebill-exception-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prebill-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ The workflow template prepares the sheet and nothing more. The billing attorney 
 
 ## Who starts the work, and when
 
-The billing coordinator runs it as soon as the prebill for a matter is generated, before the billing attorney's review, and again from the updated prebill once corrections and decisions are entered. It comes before the client ever sees anything: the summary the client reads with the invoice is [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/), prepared after the billing attorney's decisions, and a matter's budget and progress for the responsible partner is [Matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/).
+The billing coordinator runs it as soon as the prebill for a matter is generated, before the billing attorney's review, and again from the updated prebill once corrections and decisions are entered. It comes before the client ever sees anything: the summary the client reads with the invoice is [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review), prepared after the billing attorney's decisions, and a matter's budget and progress for the responsible partner is [Matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review).
 
 ## What they supply
 
@@ -36,11 +43,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the monthly step between generating the prebill and the billing attorney's review, for every matter billed by the hour.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): any firm that bills time against a client's billing rules, with the engagement partner in the billing attorney's place.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): the billing team owns the prebill, the rate table and the exports.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when more matters and more client rulebooks arrive than one billing coordinator can hold in their head.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): when the prebill checks live in one long-serving coordinator's memory and should live on a page.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): the monthly step between generating the prebill and the billing attorney's review, for every matter billed by the hour.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): any firm that bills time against a client's billing rules, with the engagement partner in the billing attorney's place.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): the billing team owns the prebill, the rate table and the exports.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): when more matters and more client rulebooks arrive than one billing coordinator can hold in their head.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): when the prebill checks live in one long-serving coordinator's memory and should live on a page.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ We set this up with your billing coordinator and a billing attorney, on past pre
 
 FullyPowered AI wrote this workflow template from its own published map of law-firm billing work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on two or three past prebills whose problems your billing coordinator already found, plus hard cases written in advance: exports that do not add up to the prebill, a timekeeper still billed at last year's client rate, the same entry recorded twice, a day over the client's hours limit, a narrative that names a negotiating position, an expense with no receipt. The billing coordinator checks every line against the prebill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means running it on two or three past prebills whose problems your billing coordinator already found, plus hard cases written in advance: exports that do not add up to the prebill, a timekeeper still billed at last year's client rate, the same entry recorded twice, a day over the client's hours limit, a narrative that names a negotiating position, an expense with no receipt. The billing coordinator checks every line against the prebill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,8 +92,8 @@ Testing in your firm means running it on two or three past prebills whose proble
 
 - [Client billing summary](../client-billing-summary/)
 - [Matter budget and status summary](../matter-budget-and-status-summary/)
-- [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/)
+- [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review).

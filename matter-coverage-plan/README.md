@@ -1,10 +1,17 @@
 # Matter coverage plan for absences
 
-When leave or a staffing change takes someone away from active matters, the practice manager gets a draft coverage plan: a proposed cover for each matter, the attorney-confirmed dates in the absence, the access each cover needs and every handoff that is blocked. The practice lead and responsible attorneys decide.
+Get a draft coverage plan for an attorney's leave, with proposed cover, access and blocked handoffs, for counsel's review.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-coverage-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Matter coverage plan for absences on our website](https://fullypowered.ai/workflows/matter-coverage-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-coverage-plan/?from=gh-law-firm-matter-coverage-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-coverage-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan)*
 
 ## The outcome
 
@@ -51,13 +58,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which owns how work is staffed and handed over.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), where approved leave and staffing changes are recorded and the plan starts.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where a matter's recorded commitments still need someone named against them during leave, and a cover the firm's own records block is costly to discover late.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where cover has long been arranged in the hallway and lives in one person's head.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a team grows past the point where the practice lead knows every matter by heart.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan), which owns how work is staffed and handed over.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan), where approved leave and staffing changes are recorded and the plan starts.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan), where a matter's recorded commitments still need someone named against them during leave, and a cover the firm's own records block is costly to discover late.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan), where cover has long been arranged in the hallway and lives in one person's head.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan), when a team grows past the point where the practice lead knows every matter by heart.
 
-[Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/) is the regular sweep for overdue tasks; this plan is for one absence. [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/) is where each matter's team and backup are first recorded. When someone is leaving for good, [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/) is the handover.
+[Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) is the regular sweep for overdue tasks; this plan is for one absence. [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) is where each matter's team and backup are first recorded. When someone is leaving for good, [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) is the handover.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ We sit with the practice manager who arranges cover today and the practice lead 
 
 FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up questions meant to draw out advice, a drafted letter or a decision, and planted items in the inputs; the record is published with the template. A separate review of the legal boundary found faults after the ordinary review had passed it, including improvised replies to those follow-up questions, and the template was tightened for each. The latest run was made by the session that corrected the template, so it shows the instructions produce the published example, not how a fresh reader would do. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past absences your practice lead already planned, with cases written in advance: a named backup on the screen list, a restricted matter, a missing qualification, a cover limit used up by an earlier matter, a screen list that is too old and a commitment nobody confirmed. The practice manager checks every proposed cover against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past absences your practice lead already planned, with cases written in advance: a named backup on the screen list, a restricted matter, a missing qualification, a cover limit used up by an earlier matter, a screen list that is too old and a commitment nobody confirmed. The practice manager checks every proposed cover against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -98,8 +105,8 @@ Testing in your firm means running it on past absences your practice lead alread
 
 - [Weekly open-matter check](../weekly-open-matter-check/)
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [Departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)
+- [Departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan).

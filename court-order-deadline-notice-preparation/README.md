@@ -1,10 +1,17 @@
 # Court-order deadline notice preparation
 
-When a court order arrives, the legal assistant has a draft notice ready for the attorney: every directive in the court’s own words, every date copied from the order or proposed under the firm’s own written rule file, and a list for the attorney to confirm. Nothing is calendared or sent until the attorney confirms.
+When a court order arrives, get a draft notice with every directive in the court's words and dates for the attorney to confirm.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Court-order deadline notice preparation on our website](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?from=gh-court-order-deadline-notice-preparati)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati)*
 
 ## The outcome
 
@@ -42,11 +49,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/): the notice is a procedure with an owner, a rule file and a confirmation step, run the same way on every order.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), in litigation groups where orders arrive daily and a missed line in a footnote is expensive.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where one long-serving assistant knows how the firm counts and nobody has written it down.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati): the notice is a procedure with an owner, a rule file and a confirmation step, run the same way on every order.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati), in litigation groups where orders arrive daily and a missed line in a footnote is expensive.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati), where one long-serving assistant knows how the firm counts and nobody has written it down.
 
-It follows [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/), which records who is on the matter. If the firm’s way of counting lives in one person’s head, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) is how to get it written before this workflow template relies on it.
+It follows [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati), which records who is on the matter. If the firm’s way of counting lives in one person’s head, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati) is how to get it written before this workflow template relies on it.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ We sit with the assistant who writes the notices and the attorney who owns the p
 
 FullyPowered AI wrote this workflow template from its own built example for an invented firm. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run, which replaced an earlier one from the same day, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past orders whose dates your attorneys already settled, and comparing: every directive found, every proposed date equal to the attorney’s, every uncovered count left alone, nothing sent. Include an order with a directive in a footnote, one counted from service and one with a page missing. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past orders whose dates your attorneys already settled, and comparing: every directive found, every proposed date equal to the attorney’s, every uncovered count left alone, nothing sent. Include an order with a directive in a footnote, one counted from service and one with a page missing. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,9 +93,9 @@ Testing in your firm means running it on past orders whose dates your attorneys 
 ## Related workflow templates
 
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-court-order-deadline-notice-preparation&from=gh-court-order-deadline-notice-preparati).

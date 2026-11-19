@@ -1,10 +1,17 @@
 # Consultation fact record
 
-After a first consultation, the intake attorney gets a draft fact record: each statement marked by how the client knows it, each date by how exactly it was given, the outcome the client wants set apart, every document mentioned but not supplied, and questions to choose from. It names no legal issue.
+A draft fact record after a first consultation, each statement and date marked, for counsel's review. It names no legal issue and gives no advice.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/consultation-fact-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Consultation fact record on our website](https://fullypowered.ai/workflows/consultation-fact-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/consultation-fact-record/?from=gh-law-firm-consultation-fact-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/consultation-fact-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ This is preparation, and it stays preparation. It gives no legal advice. It name
 
 The paralegal who sat in on the consultation, or who received the transcript, starts it once the notes are saved in the firm's intake location, usually the same day. The intake attorney who held the consultation verifies the record, decides what to ask next and decides whether any new name goes to the firm's conflict review.
 
-It is not for the first inquiry, before anyone has spoken with the client: [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/) does that. It is not for building a timeline from a set of documents, for reading the documents the client supplied, or for anything written to the client.
+It is not for the first inquiry, before anyone has spoken with the client: [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) does that. It is not for building a timeline from a set of documents, for reading the documents the client supplied, or for anything written to the client.
 
 ## What they supply
 
@@ -48,12 +55,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the record is the step between hearing a client's account and the attorney's own analysis of it, kept free of that analysis.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where the intake attorney sees several prospective clients a week and each account arrives as a page of rushed notes.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when consultations outgrow the time the intake attorney has to write them up by hand.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where one experienced paralegal writes up consultations well and nobody else knows how.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record): the record is the step between hearing a client's account and the attorney's own analysis of it, kept free of that analysis.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), where the intake attorney sees several prospective clients a week and each account arrives as a page of rushed notes.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), when consultations outgrow the time the intake attorney has to write them up by hand.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), where one experienced paralegal writes up consultations well and nobody else knows how.
 
-It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/), which brings the inquiry to the firm's conflict review before any consultation. When the firm takes the matter on, [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/) uses the verified record.
+It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), which brings the inquiry to the firm's conflict review before any consultation. When the firm takes the matter on, [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) uses the verified record.
 
 ## What has to change for your company
 
@@ -65,7 +72,7 @@ We sit with the paralegal and the intake attorney, look at how consultations are
 
 FullyPowered AI wrote this workflow template, drawing on a published intake method credited with it. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run, which replaced earlier ones from the same day after an independent review, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past consultations whose write-ups an attorney already checked, and comparing: every statement present, every mark the same as the attorney's, every approximate date left as said, every mentioned document listed, and no legal issue named. Include notes where the client changes a figure halfway through, a transcript where someone else in the room speaks, a time limit read out from a letter, and a request to say whether the client has a case. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past consultations whose write-ups an attorney already checked, and comparing: every statement present, every mark the same as the attorney's, every approximate date left as said, every mentioned document listed, and no legal issue named. Include notes where the client changes a figure halfway through, a transcript where someone else in the room speaks, a time limit read out from a letter, and a request to say whether the client has a case. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,8 +101,8 @@ Testing in your firm means running it on past consultations whose write-ups an a
 
 - [Inquiry handoff](../inquiry-handoff/)
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record).

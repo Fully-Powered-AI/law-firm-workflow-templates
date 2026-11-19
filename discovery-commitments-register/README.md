@@ -1,10 +1,17 @@
 # Discovery requests and commitments register
 
-Through discovery, the litigation paralegal keeps one register for the handling attorney: each request and its response in the exact words served, the Bates ranges produced against it, every supplement promised in correspondence with its date as written, and the promises now overdue. The attorney decides what it means.
+Keep each discovery request and response in the words served, with Bates ranges and promised supplements now overdue, for counsel's review.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discovery-commitments-register/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Discovery requests and commitments register on our website](https://fullypowered.ai/workflows/discovery-commitments-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/discovery-commitments-register/?from=gh-discovery-commitments-register)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discovery-commitments-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ The handling attorney opens one register and sees the whole written discovery on
 
 The litigation paralegal or litigation support specialist runs it while written discovery is under way: after responses are served, after each production, after each conferral letter, email or call, and before the attorney's regular look at the matter. The handling attorney decides and signs. In a company's legal team that is the in-house counsel handling the case. In a company with no lawyer of its own, the register is prepared for outside counsel on the case and goes to that counsel, never to the business as an answer.
 
-It is not for a records request sent to a client during an advisory engagement: [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/) does that work.
+It is not for a records request sent to a client during an advisory engagement: [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) does that work.
 
 ## What they supply
 
@@ -45,14 +52,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): discovery is litigation work the legal team owns, and this register keeps its record, request by request, for the attorney who decides.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), in litigation groups where several request sets run at once and a promise made on a call is easy to lose by the following month.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where claims litigation runs through outside firms and in-house counsel wants each matter's discovery record in the same shape.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where product and supply disputes bring requests for batch records, test reports and supplier correspondence that arrive across many productions.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where one experienced paralegal keeps the discovery record in a spreadsheet nobody else can read.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the matters in discovery grow faster than the litigation support team.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register): discovery is litigation work the legal team owns, and this register keeps its record, request by request, for the attorney who decides.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), in litigation groups where several request sets run at once and a promise made on a call is easy to lose by the following month.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), where claims litigation runs through outside firms and in-house counsel wants each matter's discovery record in the same shape.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), where product and supply disputes bring requests for batch records, test reports and supplier correspondence that arrive across many productions.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), where one experienced paralegal keeps the discovery record in a spreadsheet nobody else can read.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), when the matters in discovery grow faster than the litigation support team.
 
-It sits beside [deposition transcript summary](https://fullypowered.ai/workflows/deposition-transcript-summary/) and [privilege log entry check](https://fullypowered.ai/workflows/privilege-log-entry-check/) in a litigation team's discovery work. Dates set in a court order belong to [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/), not to this register.
+It sits beside [deposition transcript summary](https://fullypowered.ai/workflows/deposition-transcript-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) and [privilege log entry check](https://fullypowered.ai/workflows/privilege-log-entry-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) in a litigation team's discovery work. Dates set in a court order belong to [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register), not to this register.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ We sit with the paralegal who keeps your discovery record and the attorney who r
 
 FullyPowered AI wrote this workflow template in its own words, drawing on a published discovery tracking method credited in its sources, with that method's deficiency findings, proposed cures, sanctions flags and deadline counting taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run, which replaced two earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing at your firm means running it on a past matter whose discovery your attorney already knows, with hard cases planted in advance: a response that answers two requests together, an amended response, a promise made only on a call, the same promise repeated in an email, "within two weeks", a promise with a condition, a production whose cover letter names no request, and a request to say whether a response is deficient. The paralegal checks every quotation and date against the papers before the attorney relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing at your firm means running it on a past matter whose discovery your attorney already knows, with hard cases planted in advance: a response that answers two requests together, an amended response, a promise made only on a call, the same promise repeated in an email, "within two weeks", a promise with a condition, a production whose cover letter names no request, and a request to say whether a response is deficient. The paralegal checks every quotation and date against the papers before the attorney relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -97,4 +104,4 @@ Testing at your firm means running it on a past matter whose discovery your atto
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register).

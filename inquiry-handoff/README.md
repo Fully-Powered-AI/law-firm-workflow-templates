@@ -1,10 +1,17 @@
 # Inquiry handoff
 
-Every new inquiry reaches the firm’s conflict review and the responsible attorney as one complete packet on the day it arrives, with each missing item named and someone assigned to supply it.
+Turn each new inquiry into one complete packet for conflict review and the responsible attorney, with every missing item named. People decide.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inquiry-handoff/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Inquiry handoff on our website](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inquiry-handoff/?from=gh-law-firm-inquiry-handoff)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff)*
 
 ## The outcome
 
@@ -32,10 +39,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the step between a new inquiry and conflict review.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): the packet feeds an independence or competing-client check.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/): the gaps sit between intake, conflicts and the attorney.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): rising inquiry volume stops depending on one coordinator’s memory.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): the step between a new inquiry and conflict review.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): the packet feeds an independence or competing-client check.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): the gaps sit between intake, conflicts and the attorney.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): rising inquiry volume stops depending on one coordinator’s memory.
 
 ## What has to change for your company
 
@@ -49,7 +56,7 @@ Outside law firms, conflict review becomes whatever check your firm runs before 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on recent inquiries, including one with an unnamed parent company and one where the call contradicts the form. The intake coordinator and the conflicts clerk judge each packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means running it on recent inquiries, including one with an unnamed parent company and one where the call contradicts the form. The intake coordinator and the conflicts clerk judge each packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -76,8 +83,8 @@ Testing in your firm means running it on recent inquiries, including one with an
 ## Related workflow templates
 
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff).

@@ -1,10 +1,17 @@
 # Outgoing work sign-off log
 
-Every item that needs a responsible attorney's sign-off before it leaves the firm sits in one log, in the order it has to go out: waiting, approved or returned, with the attorney's own note. Anything close to its date with no decision is flagged first. The log tracks status and never touches the legal substance.
+Keep every item awaiting an attorney's sign-off in one log, with items near their date flagged first. A person approves; the log tracks status.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Outgoing work sign-off log on our website](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/?from=gh-law-firm-outgoing-work-sign-off-log)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log)*
 
 ## The outcome
 
@@ -43,12 +50,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where work prepared by staff and junior lawyers goes out under a responsible attorney's name.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a partner or responsible professional signs off what goes to a client.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which keeps the daily rhythm and chases the open items.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which wants a dependable record that every outgoing item passed its sign-off.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the sign-off list lives in one assistant's inbox and stops when they are away.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new hires produce more drafts than a partner can keep track of by memory.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), where work prepared by staff and junior lawyers goes out under a responsible attorney's name.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), where a partner or responsible professional signs off what goes to a client.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), which keeps the daily rhythm and chases the open items.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), which wants a dependable record that every outgoing item passed its sign-off.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), where the sign-off list lives in one assistant's inbox and stops when they are away.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), when new hires produce more drafts than a partner can keep track of by memory.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ Replace the default column headers with the ones your firm's log really uses, so
 
 FullyPowered AI wrote this workflow template, taking the idea of a law-school clinic's review queue from two published versions under the Apache-2.0 licence and turning it into a status log for a firm. It was editorially reviewed on 10 November 2026. The update shown in the example was worked through by hand from the template's rules. The template was then tried once on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a law firm, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on a past week your operations manager remembers well, with cases written in advance: an approval passed on by a paralegal, an item sent before it was approved, a return two days before the date, an item due on a Monday checked on the Thursday before. The operations manager checks every status against the attorneys' own messages before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and the [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/) is the companion routine for the tasks on each matter.
+Testing in your firm means running it on a past week your operations manager remembers well, with cases written in advance: an approval passed on by a paralegal, an item sent before it was approved, a return two days before the date, an item due on a Monday checked on the Thursday before. The operations manager checks every status against the attorneys' own messages before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log) sets those cases up, and the [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log) is the companion routine for the tasks on each matter.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,8 +94,8 @@ Testing in your firm means running it on a past week your operations manager rem
 
 - [Weekly open-matter check](../weekly-open-matter-check/)
 - [Court-order deadline notice preparation](../court-order-deadline-notice-preparation/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log).

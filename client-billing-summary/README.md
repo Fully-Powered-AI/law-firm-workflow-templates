@@ -1,10 +1,17 @@
 # Client billing summary
 
-Before an invoice goes out, the billing coordinator has a summary the client can read: fees by timekeeper, task and phase, expenses and write-downs, tied to the pre-bill. Every entry that breaks the client's billing guidelines reaches the responsible attorney as a decision, with the amount at stake.
+Before an invoice goes out, get a client-readable summary tied to the pre-bill, with each guideline breach sent to the attorney to decide.
 
-*Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-billing-summary/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client billing summary on our website](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-billing-summary/?from=gh-law-firm-client-billing-summary)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary)*
 
 ## The outcome
 
@@ -14,7 +21,7 @@ The workflow template prepares two things from the pre-bill. The first is the su
 
 ## Who starts the work, and when
 
-The billing coordinator runs it as soon as the pre-bill for a matter is generated, so the responsible attorney reviews the flags and the client summary at the same sitting. It runs again from the updated pre-bill once the attorney's decisions are entered. It comes before the invoice goes out: chasing an unpaid invoice afterward is [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/), and a matter's billing terms are captured earlier, in [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/).
+The billing coordinator runs it as soon as the pre-bill for a matter is generated, so the responsible attorney reviews the flags and the client summary at the same sitting. It runs again from the updated pre-bill once the attorney's decisions are entered. It comes before the invoice goes out: chasing an unpaid invoice afterward is [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary), and a matter's billing terms are captured earlier, in [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary).
 
 ## What they supply
 
@@ -33,9 +40,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): the monthly step between the pre-bill and the invoice, for clients whose billing rules are strict.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): the billing team owns the pre-bill, the exports and the tie-out.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when more clients arrive with their own billing rules than one billing coordinator can hold in their head.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary): the monthly step between the pre-bill and the invoice, for clients whose billing rules are strict.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary): the billing team owns the pre-bill, the exports and the tie-out.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary): when more clients arrive with their own billing rules than one billing coordinator can hold in their head.
 
 ## What has to change for your company
 
@@ -49,7 +56,7 @@ We set this up with the billing coordinator and a responsible attorney, on past 
 
 FullyPowered AI wrote this workflow template, drawing on a published billing summary method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in four runs; the instructions were revised after each of the first three, and the record of the fourth is published with it. That run did not reach any stop condition. After that run only the example's own output was edited, to agree with the instructions; the instructions were not changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on two or three past pre-bills whose client deductions you already know, plus hard cases written in advance: exports that do not add up to the pre-bill, a rate above the approved rate, two people billing the same internal meeting, a description that names a settlement position. The billing coordinator checks every figure against the pre-bill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means running it on two or three past pre-bills whose client deductions you already know, plus hard cases written in advance: exports that do not add up to the pre-bill, a rate above the approved rate, two people billing the same internal meeting, a description that names a settlement position. The billing coordinator checks every figure against the pre-bill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -76,10 +83,10 @@ Testing in your firm means running it on two or three past pre-bills whose clien
 
 ## Related workflow templates
 
-- [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/)
+- [Overdue-invoice follow-up preparation](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary)
 - [Matter-opening checklist preparation](../matter-opening-checklist-preparation/)
-- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary).

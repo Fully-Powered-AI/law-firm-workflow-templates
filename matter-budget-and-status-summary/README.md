@@ -1,10 +1,17 @@
 # Matter budget and status summary
 
-The responsible partner sees one matter whole: scope, phases against their dates, the budget against fees to date and the projected total, a red, amber or green status with the rule behind it, risks and next actions with owners. Built from the time export and the matter plan, never a view on the merits.
+Give the responsible partner one matter whole: phases, budget against fees to date, and a red, amber or green status with the rule behind it.
 
-*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-budget-and-status-summary/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Matter budget and status summary on our website](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?from=gh-matter-budget-and-status-summary)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary)*
 
 ## The outcome
 
@@ -41,13 +48,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where each matter has a responsible partner and a budget agreed with the client, and an overrun found late is the hardest conversation to have.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the same summary works for one engagement with phases, a budget and a responsible partner or lead.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which runs the firm's reporting rhythm and the rules behind the ratings.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns phases, dates and the estimate to complete.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which keeps the time and billing records the figures come from.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where matter budgets are watched by one experienced partner's instinct and deserve a written page.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when there are more matters than any partner can keep the numbers of in their head.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), where each matter has a responsible partner and a budget agreed with the client, and an overrun found late is the hardest conversation to have.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), where the same summary works for one engagement with phases, a budget and a responsible partner or lead.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), which runs the firm's reporting rhythm and the rules behind the ratings.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), which owns phases, dates and the estimate to complete.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), which keeps the time and billing records the figures come from.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), where matter budgets are watched by one experienced partner's instinct and deserve a written page.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), when there are more matters than any partner can keep the numbers of in their head.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ Set your own thresholds for amber and red, the grace a late phase gets, and the 
 
 FullyPowered AI wrote this workflow template in its own words, drawing on two openly licensed matter-reporting methods credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it. That run did not reach the stop conditions, a late phase or a phase with no estimate to complete. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past matters whose budgets your partners remember well, plus hard cases written in advance: phase budgets that do not add up, a phase with no estimate to complete, time on another matter or after the as-of date, an export with a renamed column, a note that comments on the merits. The billing coordinator checks every figure against the billing system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past matters whose budgets your partners remember well, plus hard cases written in advance: phase budgets that do not add up, a phase with no estimate to complete, time on another matter or after the as-of date, an export with a renamed column, a note that comments on the merits. The billing coordinator checks every figure against the billing system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,9 +92,9 @@ Testing in your environment means running it on two or three past matters whose 
 ## Related workflow templates
 
 - [Weekly open-matter check](../weekly-open-matter-check/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary).

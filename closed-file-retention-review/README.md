@@ -1,10 +1,17 @@
 # Closed-file retention review
 
-When closed matter files are ready for records review, the records officer has a draft list for supervising counsel in four groups: files whose period has run under the firm's own schedule, files under a hold, client originals not yet returned, and files that cannot be assessed. Nothing is destroyed or moved.
+Get a draft list of closed files whose period has run under your own schedule, files under a hold and unreturned originals, for counsel's review.
 
-*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/closed-file-retention-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Closed-file retention review on our website](https://fullypowered.ai/workflows/closed-file-retention-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/closed-file-retention-review/?from=gh-law-firm-closed-file-retention-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/closed-file-retention-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ This is preparation for a lawyer. What it does not do: it gives no legal advice.
 
 The records officer starts it when a batch of closed files is ready for records review: a run of storage boxes, a range of electronic folders, or the files closed in a given period. Supervising counsel, the lawyer the firm names to decide on closed files, reviews it and decides.
 
-It is the later step after [matter closing checklist preparation](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/), which closes each matter and deliberately sets no retention period. It is not for closing a matter, for writing to a client about returning originals, or for deciding anything about a hold: the lawyer who issued the hold decides its scope and its release, and [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/) keeps track of it while it runs. Asked whether a file can be shredded, how long the law says to keep something, or to mark files for destruction, it gives one fixed reply: that is for supervising counsel, named, with a pointer to the line of the review the question is about.
+It is the later step after [matter closing checklist preparation](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), which closes each matter and deliberately sets no retention period. It is not for closing a matter, for writing to a client about returning originals, or for deciding anything about a hold: the lawyer who issued the hold decides its scope and its release, and [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review) keeps track of it while it runs. Asked whether a file can be shredded, how long the law says to keep something, or to mark files for destruction, it gives one fixed reply: that is for supervising counsel, named, with a pointer to the line of the review the question is about.
 
 ## What they supply
 
@@ -41,16 +48,16 @@ One draft review in six parts, headed for supervising counsel by name, with a sh
 
 The records officer checks each entry against the box or folder, recounts each end date and gets what the fourth group needs. Supervising counsel decides each point and records it in the firm's own log. Anything returned, kept or disposed of afterwards is done by people, under the firm's own procedure.
 
-It is a different piece of work from [obsolete copy check](https://fullypowered.ai/workflows/obsolete-copy-check/), which finds out-of-date controlled copies in use, and from [shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/), which plans how a working folder is tidied.
+It is a different piece of work from [obsolete copy check](https://fullypowered.ai/workflows/obsolete-copy-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), which finds out-of-date controlled copies in use, and from [shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), which plans how a working folder is tidied.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the records decision at the end of every matter, prepared the same way for each batch.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/): a written record of what was compared against the schedule, the holds and the originals log, kept with counsel's decision.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where closed files pile up in storage and every box holds another client's papers.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of closed matters, old boxes and older holds make it hard to see what still needs a decision.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review): the records decision at the end of every matter, prepared the same way for each batch.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review): a written record of what was compared against the schedule, the holds and the originals log, kept with counsel's decision.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), where closed files pile up in storage and every box holds another client's papers.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), where years of closed matters, old boxes and older holds make it hard to see what still needs a decision.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ We sit with your records officer and the attorney who owns the schedule, write d
 
 FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on past batches whose retention decisions your counsel already made, and comparing: every file under a hold found, every unreturned original found, every end date equal to the one your records team counted, and no line saying what should happen to a file. Include a hold that was released, a file closed on 29 February, a closing date written as a year only and an inventory note saying a file is fine to shred. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on past batches whose retention decisions your counsel already made, and comparing: every file under a hold found, every unreturned original found, every end date equal to the one your records team counted, and no line saying what should happen to a file. Include a hold that was released, a file closed on 29 February, a closing date written as a year only and an inventory note saying a file is fine to shred. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,9 +97,9 @@ Testing in your firm means running it on past batches whose retention decisions 
 ## Related workflow templates
 
 - [Matter closing checklist preparation](../matter-closing-checklist-preparation/)
-- [Legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review).
