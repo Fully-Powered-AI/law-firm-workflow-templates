@@ -4,6 +4,8 @@ Every Monday the operations manager sees every open matter: which tasks are over
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-open-matter-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/weekly-open-matter-check/?from=gh-law-firm-weekly-open-matter-check)
+
 ## The outcome
 
 No matter goes quiet without someone noticing. The whole book is checked every week, the small matters as carefully as the large ones, in the time it takes to check a handful by hand. The operations manager starts Monday with the counts done, the matters that most need attention ranked by a rule the firm chose, and a draft note for each responsible attorney.

@@ -4,6 +4,8 @@ The responsible partner sees one matter whole: scope, phases against their dates
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-budget-and-status-summary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?from=gh-matter-budget-and-status-summary)
+
 ## The outcome
 
 The partner walks into the partners' meeting, or the budget call with the client, knowing exactly where one matter stands on money and progress. Every phase sits beside its planned dates and its budget. Fees to date tie to the time export to the dollar, and the projected total comes from the matter lead's own estimate of the work still to come.

@@ -4,6 +4,8 @@ Every accepted matter goes into setup and billing with one checklist: the fields
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?from=gh-matter-opening-checklist-preparation)
+
 ## The outcome
 
 In a fully powered firm, the first invoice on every new matter is right. The billing arrangement in the system matches the engagement letter, and the client’s e-billing rules are known before anyone records an hour. That is 10X what your setup team can do with the hours it has.

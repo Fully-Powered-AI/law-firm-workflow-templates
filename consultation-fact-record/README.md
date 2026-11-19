@@ -4,6 +4,8 @@ After a first consultation, the intake attorney gets a draft fact record: each s
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/consultation-fact-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/consultation-fact-record/?from=gh-law-firm-consultation-fact-record)
+
 ## The outcome
 
 The intake attorney opens one page after the consultation and sees the account sorted: what the client did or saw, what someone else told the client, what the client is assuming, and what the notes do not show either way. Every line points back to its paragraph or timestamp in the notes. Dates stay exactly as precise as the client made them. Where the account disagrees with itself, both versions sit side by side. The outcome the client wants has its own place, and so does every letter, message or photograph the client mentioned and has not yet sent. The attorney's next conversation starts from a ready list of factual questions, and the paralegal's write-up reads the same way after every consultation.

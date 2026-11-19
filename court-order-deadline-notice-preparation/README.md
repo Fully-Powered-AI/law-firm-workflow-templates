@@ -4,6 +4,8 @@ When a court order arrives, the legal assistant has a draft notice ready for the
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?from=gh-court-order-deadline-notice-preparati)
+
 ## The outcome
 
 The attorney opens one page and sees everything the order asks of anyone: each directive quoted with its page, each date, each hearing set or vacated, each amount. The careful first reading arrives prepared, footnotes included, and the attorney’s time goes to the judgment only an attorney can make.

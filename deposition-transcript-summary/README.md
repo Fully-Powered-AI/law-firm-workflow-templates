@@ -4,6 +4,8 @@ Before the next deposition, a motion or trial, the attorney has a draft page-lin
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deposition-transcript-summary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deposition-transcript-summary/?from=gh-deposition-transcript-summary)
+
 ## The outcome
 
 The attorney sits down to prepare with the witness's whole testimony already sorted under the topics that matter to the case. Every point carries its page and lines, so any point can be found in the transcript straight away. Where the witness gave two different times, a date that differs from a document, or an answer the errata sheet changes, both places are quoted together, each with its cite. Every objection is logged with what followed it, every exhibit with where it was marked, and a follow-up list shows what the record says is still outstanding: documents named in testimony that are not exhibits and were not supplied, things the witness offered to provide, questions left unanswered. The first read is prepared for the paralegal to check and the attorney to review, and the attorney's time goes to the judgment only a lawyer can make.

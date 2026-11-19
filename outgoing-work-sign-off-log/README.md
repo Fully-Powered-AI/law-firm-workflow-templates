@@ -4,6 +4,8 @@ Every item that needs a responsible attorney's sign-off before it leaves the fir
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/?from=gh-law-firm-outgoing-work-sign-off-log)
+
 ## The outcome
 
 Nothing leaves the firm unsigned because someone lost track. The operations manager has one list of everything staff and junior lawyers have prepared for a client, a court or the other side, sorted by the day it has to go. Each line shows whether the responsible attorney has approved it, sent it back or not yet looked, and carries the attorney's note exactly as they wrote it. The items running out of time with no decision sit at the top, so the attorney hears about them while there is still a day to act.

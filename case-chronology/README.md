@@ -4,6 +4,8 @@ From the document set the handling attorney approved, the paralegal or associate
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/case-chronology/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/case-chronology/?from=gh-law-firm-case-chronology)
+
 ## The outcome
 
 The handling attorney opens one draft and reads the matter in order. Every entry says who did what and when, quotes the words the document uses, and gives the Doc ID and the Bates number or page where those words sit, so any line can be checked against its page. The attorney’s time goes to reading and judging, not to assembling.

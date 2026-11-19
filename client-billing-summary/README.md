@@ -4,6 +4,8 @@ Before an invoice goes out, the billing coordinator has a summary the client can
 
 *Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-billing-summary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-billing-summary/?from=gh-law-firm-client-billing-summary)
+
 ## The outcome
 
 In a fully powered firm, invoices go out right the first time. The client opens a clear account of the month: who worked, on what, at which stage of the matter, and what it cost. The firm finds the entries the client's billing rules would refuse before the client's reviewers do, so fewer invoices come back with deductions and fewer weeks pass between sending and payment. That is 10X what your billing team can do with the hours it has.

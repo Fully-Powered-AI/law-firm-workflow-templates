@@ -4,6 +4,8 @@ Through discovery, the litigation paralegal keeps one register for the handling 
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discovery-commitments-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/discovery-commitments-register/?from=gh-discovery-commitments-register)
+
 ## The outcome
 
 The handling attorney opens one register and sees the whole written discovery on a matter, request by request. Each request is quoted with its page, and under it every response, amended and supplemental ones included, word for word with the date served. Then come the productions logged against it with their Bates ranges, every promise of more documents or an amended response made in a letter, an email or on a call, and every passage about narrowing what the request covers, each with the side that wrote it. A short list at the end shows the promised supplements whose stated date has passed with nothing recorded since. The promise someone made on a call six weeks ago is on the page, with the words used and whether the other side ever put it in writing.

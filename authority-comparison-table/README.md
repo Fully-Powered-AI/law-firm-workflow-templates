@@ -4,6 +4,8 @@ From the opinions, statutes and regulations counsel selected, and only those, th
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/authority-comparison-table/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/authority-comparison-table/?from=gh-law-firm-authority-comparison-table)
+
 ## The outcome
 
 The researching lawyer starts the close reading with the whole set laid out in one place. Every authority sits in the same fixed fields, each filled with the text's own words and the exact paragraph, page or section they came from. Counsel's own points run across the set, so the passages on each point line up side by side. The opinion printed first sits beside any dissent or concurrence, sentence against sentence, and neither is labelled the majority. Every place one opinion in the set mentions another is pulled out, and every authority the texts mention but nobody supplied is listed, unread, for the lawyer to chase. The draft ends with a numbered list of every quotation, ready to check against the official source.

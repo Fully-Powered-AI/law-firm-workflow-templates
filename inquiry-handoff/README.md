@@ -4,6 +4,8 @@ Every new inquiry reaches the firm’s conflict review and the responsible attor
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inquiry-handoff/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inquiry-handoff/?from=gh-law-firm-inquiry-handoff)
+
 ## The outcome
 
 A fully powered intake desk turns a web form, a call and a few emails into one packet the conflicts clerk and the responsible attorney act on that afternoon. Every gap carries the name of the person who will fill it. That is 10X what your intake desk can do with the people it has.

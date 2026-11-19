@@ -4,6 +4,8 @@ Before the responsible attorney decides on a new matter, the conflicts clerk has
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/conflict-search-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/conflict-search-record/?from=gh-law-firm-conflict-search-record)
+
 ## The outcome
 
 The responsible attorney opens one record and sees the whole search. Every party is there with each alias and related entity the firm supplied. Every record in the firm's conflicts export that came close is there too, with the matter it sits in, that matter's client and the plain reason it surfaced. Just as visible is everything the search could not reach: a parent company nobody has named yet, a field left blank in the export, a source the firm's own rule requires that was not attached. Each of those is a further search with the conflicts clerk against it, so the gaps are on the page instead of hidden behind a short list.

@@ -4,6 +4,8 @@ Before a draft privilege log goes to review counsel, the paralegal gets an entry
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/privilege-log-entry-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/privilege-log-entry-check/?from=gh-law-firm-privilege-log-entry-check)
+
 ## The outcome
 
 Review counsel opens a log whose housekeeping has already been checked line by line. Every entry has been held up against the review platform’s own record: the document ID, the date, the type, the author, every recipient down to the BCC line, each person’s role as counsel’s role map records it, the treatment counsel designated, and each attachment tied to its parent. The email logged with an entry for only one of its two attachments, the memo designated for withholding that has no entry, the person on a BCC line nobody has mapped: each one is found before the log leaves the firm, and each one is a line for counsel to answer.

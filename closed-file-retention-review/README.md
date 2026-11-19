@@ -4,6 +4,8 @@ When closed matter files are ready for records review, the records officer has a
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/closed-file-retention-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/closed-file-retention-review/?from=gh-law-firm-closed-file-retention-review)
+
 ## The outcome
 
 Supervising counsel opens one list and sees exactly where a batch of closed files stands. Files whose retention period has run under the firm's own approved schedule are together, each with its end date and the counting shown. Every file a hold covers is in its own group, whatever its age, so nobody has to remember which client is under a hold. Original client documents the log does not show as returned are listed with every file of that matter, so a deed or a signed original is in front of counsel before anything happens to that matter's files. And every file the records cannot settle, because the closing date is unclear, nobody recorded who authorised the closure, or the schedule sends it to counsel, is named with what is needed and from whom.

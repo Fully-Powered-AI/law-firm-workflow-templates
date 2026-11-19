@@ -4,6 +4,8 @@ When the handling lawyer flags a matter for closure, the firm's closing checklis
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?from=gh-matter-closing-checklist-preparation)
+
 ## The outcome
 
 A matter does not leave the active list with loose ends nobody saw. The person closing the file opens one page that shows what the records say: how the lawyer says the matter ended, what billing still shows as open, which tasks are unfinished, which client documents and property have not gone back, and which handoffs have not been accepted by the people who must accept them.

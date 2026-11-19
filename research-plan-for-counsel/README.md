@@ -4,6 +4,8 @@ Before an associate or paralegal starts on a partner's research question, they h
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-plan-for-counsel/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/research-plan-for-counsel/?from=gh-law-firm-research-plan-for-counsel)
+
 ## The outcome
 
 The researcher starts from a map of the work instead of a blank page. The partner's question is broken into its parts, in the partner's own words, so the scope can be confirmed before hours go into it. Every fact supplied is quoted with where it came from, and every document mentioned but not yet in hand is listed. The firm's own notes and earlier memos come first, with the ones due for review marked. The kinds of source to search and a set of search terms follow, each term traced back to the inputs it came from. Anything from research already done is copied exactly, with what is missing from each reference shown.

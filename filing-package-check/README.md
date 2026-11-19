@@ -4,6 +4,8 @@ Before a filing goes to the attorney for signature, the paralegal gets every ite
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/filing-package-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/filing-package-check/?from=gh-law-firm-filing-package-check)
+
 ## The outcome
 
 The attorney picks up a filing package whose housekeeping has already been held up against the firm’s own checklist, item by item. The caption has been compared with the docket, party by party and digit by digit. The exhibits the brief refers to have been matched against the exhibits behind it, in both directions. The proof of service has been compared with the matter’s service list and with the counsel the docket shows. The defendant who dropped out of the caption, the exhibit referred to on page 2 that nobody attached, the bar number with two digits swapped, the co-defendant’s counsel left off the proof of service: each is found while there is still time to fix it, and each is a line for the attorney to confirm.

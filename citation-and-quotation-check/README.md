@@ -4,6 +4,8 @@ Before a draft is filed or relied on, the associate or paralegal has one workshe
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/citation-and-quotation-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/citation-and-quotation-check/?from=gh-law-firm-citation-and-quotation-check)
+
 ## The outcome
 
 The person doing the cite check stops hunting and starts deciding. Every item is found and counted first, so the worksheet opens with plain coverage, then gives each one of four results named for exactly what was compared: matches the supplied text, differs, partly matches the supplied text, or could not be checked. The draft’s words and the source’s words sit side by side, with every word at the place cited that the draft leaves out listed in full, so the signing lawyer sees each problem without reopening a file.

@@ -4,6 +4,8 @@ The day after a partner meets someone who sends the firm work, they have a follo
 
 *Workflow template · Law firms · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-source-follow-up/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/referral-source-follow-up/?from=gh-law-firm-referral-source-follow-up)
+
 ## The outcome
 
 Every promise made over lunch gets kept, or at least gets a decision. A partner comes back from a conversation with an accountant, a banker, another lawyer or a prospective client, and by the next morning has a short message ready in their own voice: the checklist they offered, attached; the seminar date someone on the team owes, restated; the next step they want, proposed. That is how a fully powered practice turns a good lunch into the next introduction, instead of leaving it to a partner's memory.

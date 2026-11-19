@@ -4,6 +4,8 @@ When leave or a staffing change takes someone away from active matters, the prac
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-coverage-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/matter-coverage-plan/?from=gh-law-firm-matter-coverage-plan)
+
 ## The outcome
 
 The aim is that no matter goes dark because its lawyer is on leave. Before the absence starts, the practice lead holds one page that answers the questions that usually surface too late: who picks up each matter, what is already booked while the person is away, whether the cover can even open the file, and which handoffs the firm's own records block, and why.

@@ -4,6 +4,8 @@ Before a set hearing, the arguing attorney has one draft pack: the hearing as th
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hearing-preparation-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/hearing-preparation-pack/?from=gh-law-firm-hearing-preparation-pack)
+
 ## The outcome
 
 The attorney who will stand up at the hearing opens one pack and finds everything assembled in the same order every time. The date, time, courtroom, judge and every direction in the notice, in the notice's own words. Every docket entry, as docketed. Every directive in the orders the attorney asked for, quoted with its page and paragraph, footnotes included. Each witness, in the attorney's order, with their declarations or transcripts quoted under the topics the attorney named, every passage cited to paragraph and page or to page and line. Each exhibit with its marking, exchange and stipulation status exactly as the tracker shows it, and each item on the firm's own pre-hearing checklist shown done or open. A separate open-items list gathers what the sources show is still outstanding: a checklist item past its recorded date, a blank in the tracker, a witness with no statement on file, an email a declaration mentions that is not on the exhibit list, an order on the docket nobody supplied.

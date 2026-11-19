@@ -2,9 +2,11 @@
 
 A firm where nothing waits on someone remembering. These workflow templates are written for the people who keep a law firm running: intake, matter opening, the operations around the practice, and the records, indexes and checks a paralegal or assistant prepares for an attorney. They prepare the work. They give no legal advice and have not been reviewed by a lawyer, and the firm's lawyers and staff make every decision.
 
-This repository holds 24 workflow templates for the people who run a law firm's operations and prepare work for its attorneys. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
 
-These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
+**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for law firms](https://fullypowered.ai/industries/law-firms/?from=gh-law-firm) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-law-firm)
+
+This repository holds 24 workflow templates for the people who run a law firm's operations and prepare work for its attorneys. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The workflow templates
 

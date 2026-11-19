@@ -4,6 +4,8 @@ From a production review counsel has cleared, the paralegal prepares a draft for
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/production-document-index/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/production-document-index/?from=gh-law-firm-production-document-index)
+
 ## The outcome
 
 Review counsel opens one draft and knows what came in. Every document in the production has a line in the index: its Bates range, pages, type, date, who sent it to whom, its family and any designation stamped on it. Every document that can be read has a short summary that says what the document states, in the order it states it, with the Bates page after every sentence and the exact words quoted. Attachments are linked to the emails that carry them. Where one page names a report or an attachment the production does not contain, that is listed with the words that name it. Where two documents give different times, counts or amounts for the same thing, both passages are quoted side by side. Every Bates number in the cleared range is accounted for, so a gap is found before the review starts. The first read is prepared for the paralegal to check and counsel to review, and counsel's time goes to the judgment only a lawyer can make.

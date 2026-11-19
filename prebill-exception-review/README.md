@@ -4,6 +4,8 @@ Before the billing attorney opens a prebill, the billing coordinator has every a
 
 *Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prebill-exception-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/prebill-exception-review/?from=gh-law-firm-prebill-exception-review)
+
 ## The outcome
 
 In a fully powered firm, the prebill review is spent on decisions, not on searching. The billing attorney sits down with one exception sheet for the matter: every entry billed at a rate the firm's table does not show for that date, every pair of entries that look like the same work twice, every entry the client's billing guidelines would refuse, every narrative that is vague, packs several tasks under one time or says more than an invoice should, every expense with no receipt or invoice behind it, and every adjustment entered with no approver or no reason. Each line carries the facts and the amount at stake.
