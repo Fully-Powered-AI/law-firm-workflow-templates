@@ -49,6 +49,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): when more matters and more client rulebooks arrive than one billing coordinator can hold in their head.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review): when the prebill checks live in one long-serving coordinator's memory and should live on a page.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) for law firms.
+
 ## What has to change for your company
 
 1. **Your exports.** Map your billing system's column headings once, so every run reads them the same way.

@@ -62,6 +62,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index), where a product or supply dispute brings productions of test records, logs, invoices and plant email that have to be read against each other.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index), where a long-running dispute builds a document record too large for one person to hold in their head.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index) for law firms.
+
 It pairs with [case chronology from the matter documents](https://fullypowered.ai/workflows/case-chronology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index), which can be built from the documents once counsel has reviewed this draft, and with [privilege log entry check](https://fullypowered.ai/workflows/privilege-log-entry-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index) when the team prepares its own log.
 
 ## What has to change for your company

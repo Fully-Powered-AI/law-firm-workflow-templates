@@ -44,6 +44,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): the gaps sit between intake, conflicts and the attorney.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff): rising inquiry volume stops depending on one coordinator’s memory.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff) like this one.
+
 ## What has to change for your company
 
 1.  **Required facts by matter type.** An employment inquiry needs different facts from a commercial dispute.

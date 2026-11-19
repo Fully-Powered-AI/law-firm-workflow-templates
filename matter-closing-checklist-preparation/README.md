@@ -57,6 +57,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): final invoices, unbilled time and funds held are shown as recorded before billing accepts the file.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation): a closing routine that lives in one clerk's habits is moved onto a page.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) like this one.
+
 ## What has to change for your company
 
 1. **Your closing checklist.** The items, who owns each, and which are handoffs to billing, records or matter administration.

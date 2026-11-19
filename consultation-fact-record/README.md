@@ -60,6 +60,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), when consultations outgrow the time the intake attorney has to write them up by hand.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), where one experienced paralegal writes up consultations well and nobody else knows how.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) for law firms.
+
 It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record), which brings the inquiry to the firm's conflict review before any consultation. When the firm takes the matter on, [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-consultation-fact-record&from=gh-law-firm-consultation-fact-record) uses the verified record.
 
 ## What has to change for your company

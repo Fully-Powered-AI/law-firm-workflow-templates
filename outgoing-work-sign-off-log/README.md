@@ -57,6 +57,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), where the sign-off list lives in one assistant's inbox and stops when they are away.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log), when new hires produce more drafts than a partner can keep track of by memory.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-outgoing-work-sign-off-log&from=gh-law-firm-outgoing-work-sign-off-log) like this one.
+
 ## What has to change for your company
 
 Replace the default column headers with the ones your firm's log really uses, so the update does not stop to ask. Set how many working days ahead counts as close and list the days your office is closed. Write down who may decide for whom when an attorney is away; as written, only the named attorney, or a covering attorney in the settings, can approve or return an item. Keep your policy on what needs sign-off in your own procedures; the log records what is put up for it. Decide where the history lines are kept and how long closed items stay in the file. Firms outside law change the word "attorney" to the role that signs off.

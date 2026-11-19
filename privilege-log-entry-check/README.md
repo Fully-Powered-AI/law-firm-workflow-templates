@@ -56,6 +56,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check), where one senior paralegal knows how the firm checks a log and nobody has written it down.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check), when reviews grow faster than the team that builds the logs.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check) like this one.
+
 It sits beside [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check), which turns an entered court order into a draft notice for the attorney to confirm, and [outgoing work sign-off log](https://fullypowered.ai/workflows/outgoing-work-sign-off-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check), which tracks the attorney’s sign-off before the log leaves the firm.
 
 ## What has to change for your company

@@ -44,6 +44,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary): the billing team owns the pre-bill, the exports and the tie-out.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary): when more clients arrive with their own billing rules than one billing coordinator can hold in their head.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) like this one.
+
 ## What has to change for your company
 
 1.  **Your exports.** Map your billing system's column headings once, so every run reads them the same way.

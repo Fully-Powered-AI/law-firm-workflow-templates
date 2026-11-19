@@ -61,6 +61,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology), where a payment or defects dispute rests on site records, delivery notes and years of correspondence. This is a record for the lawyer, not the project’s own programme.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology), where every dispute has a long trail of email and files behind it.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology) like this one.
+
 When an order arrives on the same matter, [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology) prepares the notice the attorney confirms. [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology) records who is on the matter before any of this starts.
 
 ## What has to change for your company

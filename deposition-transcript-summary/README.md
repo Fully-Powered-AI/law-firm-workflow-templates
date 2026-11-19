@@ -60,6 +60,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), where a delay or defect dispute means many site witnesses, many documents and testimony that has to be set against the logs.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary), where a long-running dispute builds a record too large for one person to hold in their head.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) for law firms.
+
 It sits beside [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) in a litigation team's week, and [weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) is where an outstanding follow-up item gets its owner.
 
 ## What has to change for your company

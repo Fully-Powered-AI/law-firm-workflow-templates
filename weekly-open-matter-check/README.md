@@ -56,6 +56,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), which owns the weekly rhythm and the follow-up.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check), where the check depends on one person's Monday morning and does not happen when that person is away.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-weekly-open-matter-check&from=gh-law-firm-weekly-open-matter-check) like this one.
+
 ## What has to change for your company
 
 Name who keeps the roster and how old it may be before the check waits for a new one. The template states the column headers it expects in each file; replace them with the headers your billing list and your case system's exports really use, and set your status words, so the check does not stop to ask. Confirm the ranking rule and the size of the list. Replace the note wording with your operations manager's own. Decide who receives the notes: the template writes to the responsible attorney, never straight to the person holding the task. Keep holidays and absences with the operations manager, who knows who is away.

@@ -59,6 +59,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), where closed files pile up in storage and every box holds another client's papers.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review), where years of closed matters, old boxes and older holds make it hard to see what still needs a decision.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-closed-file-retention-review&from=gh-law-firm-closed-file-retention-review) for law firms.
+
 ## What has to change for your company
 
 The retention schedule is yours, and it is the heart of this. The attorney who owns it sets the record classes, the period for each, which classes are permanent or counted from an event, and the counting rule: what a period runs from, how its end date is set, when it counts as run and what happens to a 29 February closing date. You choose how a batch is picked, map your column names if your records system, hold register or originals log differs, decide whether a return needs a recipient's name or a signed receipt as well, and name where counsel records decisions and who decides when counsel is away.

@@ -47,6 +47,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): billing terms are set once, from the agreed source.
 - [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation): two firms with two opening routines move to one standard.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) like this one.
+
 ## What has to change for your company
 
 1.  **Your systems and their fields.** Which systems a new matter touches, what each requires and how a matter is numbered.

@@ -57,6 +57,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), when inquiries arrive faster than one clerk can search and write up by hand.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), where years of matters, renamed clients and older paper records make the limits of a search matter as much as its results.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) like this one.
+
 It follows [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record) and comes before [matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-conflict-search-record&from=gh-law-firm-conflict-search-record), once the attorney has accepted the matter.
 
 ## What has to change for your company

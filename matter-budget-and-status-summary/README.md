@@ -56,6 +56,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), where matter budgets are watched by one experienced partner's instinct and deserve a written page.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary), when there are more matters than any partner can keep the numbers of in their head.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) for law firms.
+
 ## What has to change for your company
 
 Set your own thresholds for amber and red, the grace a late phase gets, and the age at which unbilled time becomes a risk. The template states the column headers it expects; replace them with the headers your billing and practice management systems really export, and your phase status words, so the summary does not stop to ask. Decide how fixed-fee and capped matters are read, and whether expenses count against the budget. Agree the headings your matter leads use in their notes and who receives the summary. Keep client updates separate: this page is internal to the firm.
