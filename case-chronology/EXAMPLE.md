@@ -1,6 +1,6 @@
-# Case chronology from the matter documents: an invented example
+# Case chronology from the matter documents: an example
 
-*Illustrative example with invented data.* Quarrender Vale LLP, its people, its client Hollowmere Bakeries Inc., the other party Vantry Ovenworks Ltd, everyone named in the documents, the Eastvale Commercial Court, the case number, the protective order and every document below are invented. Nothing here is a real dispute, and nothing in it says who is right.
+*Illustrative example with sample data.* Quarrender Vale LLP, its people, its client Hollowmere Bakeries Inc., the other party Vantry Ovenworks Ltd, everyone named in the documents, the Eastvale Commercial Court, the case number, the protective order and every document below are illustrative. Nothing here is a real dispute, and nothing in it says who is right.
 
 The paralegal’s three inputs come first, in full, then what the workflow template prepares. The handling attorney’s instruction answers both opening questions, on privilege screening and on documents from the other side, so the AI assistant records her answers rather than asking. Her screening answer speaks of the HOL documents only, so the draft says, rather than guesses, that it does not cover the two VAN documents. Today’s date is Wednesday 11 November 2026. The firm has set no gap threshold or date convention, so the defaults apply: 30 calendar days, and no numeric date that could be read two ways is read.
 

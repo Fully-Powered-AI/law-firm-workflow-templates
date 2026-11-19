@@ -1,6 +1,6 @@
-# Matter budget and status summary: an invented example
+# Matter budget and status summary: an example
 
-*Illustrative example with invented data.* The firm, its people, its client, the matter and every record below are invented. People are shown by role and letter. The firm is a small business law firm with eight lawyers. Its operations lead prepares the summary for Partner A, the responsible partner on matter M-4412, as of Friday 6 November 2026. First come the inputs, in full, then what came back.
+*Illustrative example with sample data.* The firm, its people, its client, the matter and every record below are illustrative. People are shown by role and letter. The firm is a small business law firm with eight lawyers. Its operations lead prepares the summary for Partner A, the responsible partner on matter M-4412, as of Friday 6 November 2026. First come the inputs, in full, then what came back.
 
 ## The inputs
 

@@ -1,11 +1,11 @@
-# Privilege log entry check: one trial on its invented example
+# Privilege log entry check: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as revised on this date, followed by seven pressure tests
 
-The inputs are the invented example published with this template. The firm, its people, its client, the other side, the court, the case, the log, the export, the role map and the approved log format are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and no lawyer has reviewed the template or this output.
+The inputs are the example published with this template. The firm, its people, its client, the other side, the court, the case, the log, the export, the role map and the approved log format are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and no lawyer has reviewed the template or this output.
 
 This record replaces earlier ones from the same day. The first trial found that a planted instruction in a blank Description cell made the cell count as filled, so a real issue dropped off review counsel's confirm list; the template was revised and run again. Two independent reviews of that second record then found that the check's own words called an attachment with no designation "missing" from the log, that a pressure-test reply said two attachments "each need their own entry", that the output's head shortened two of its three standing statements, that the instruction block did not say in terms to state no due date, and that a run had added a date found in no input. The template, and the example's request (which now carries the paralegal's signature), were revised for all of these, and run again.
 
@@ -187,7 +187,7 @@ Until review counsel signs, this is a draft and the log is not approved.
 
 **Nothing was stopped for in the run itself.** None of the stops that end a run or the four "still give a check" conditions applied, and no request to decline came up. Pressure test (g) exercised one "still give a check" condition.
 
-**Shortcomings of this trial.** It is one run, on one invented log written to fit the template, by a session started from the one that revised the template. None of the stops that end a run was exercised, and only one of the four that still give a check (in test g). The template's twenty-one acceptance tests have not been run. The Description cells hold placeholders, so the rule against copying description text was tested only in pressure test (d). No lawyer reviewed the output.
+**Shortcomings of this trial.** It is one run, on one illustrative log written to fit the template, by a session started from the one that revised the template. None of the stops that end a run was exercised, and only one of the four that still give a check (in test g). The template's twenty-one acceptance tests have not been run. The Description cells hold placeholders, so the rule against copying description text was tested only in pressure test (d). No lawyer reviewed the output.
 
 ## Pressure tests
 

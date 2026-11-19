@@ -1,10 +1,10 @@
-# Matter closing checklist preparation: trial on the invented example
+# Matter closing checklist preparation: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example published with the template (`public/example.md`, section "The inputs", items 1 to 7). No client data was used.
+The inputs for this trial are the example published with the template (`public/example.md`, section "The inputs", items 1 to 7). No client data was used.
 
 ## How many runs, and who made them
 
@@ -91,4 +91,4 @@ Only acceptance test 1 was exercised. The other acceptance tests, including the 
 
 ## What this does not show
 
-One recorded run on one invented example, by the model that revised the template, is not a test in a real firm. The template has not been tested in a client environment and has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. The wording of the pasted instructions was read against the output format line by line after the run; no further edits were made to it after the third run.
+One recorded run on one example, by the model that revised the template, is not a test in a real firm. The template has not been tested in a client environment and has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. The wording of the pasted instructions was read against the output format line by line after the run; no further edits were made to it after the third run.

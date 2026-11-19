@@ -1,6 +1,6 @@
-# Filing package check: an invented example
+# Filing package check: an example
 
-*Illustrative example with invented data.* Brindlemoor Quist LLP, its people, its client, the other parties and their counsel (Firm B LLP and Firm C LLP), the District Court of Eastmere, its judge, the docket, the filing checklist and every document below are all invented. The checklist is one invented firm’s requirements for an invented court. It is not any real court’s rule and must not be used for a real filing.
+*Illustrative example with sample data.* Brindlemoor Quist LLP, its people, its client, the other parties and their counsel (Firm B LLP and Firm C LLP), the District Court of Eastmere, its judge, the docket, the filing checklist and every document below are all illustrative. The checklist is one illustrative firm’s requirements for an invented court. It is not any real court’s rule and must not be used for a real filing.
 
 The paralegal’s inputs come first, in full, then what the workflow template prepares.
 

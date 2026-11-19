@@ -8,7 +8,7 @@ The day after a partner meets a referral source, get a follow-up draft and a lis
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-source-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-referral-source-follow-up&from=gh-law-firm-referral-source-follow-up)*
@@ -37,7 +37,7 @@ One page for the partner. At the top, when the follow-up is due and whether the 
 
 A good run leaves the partner editing for tone, not hunting through their notes for what they said they would do.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Replace the default advertising checklist with the categories your own rules and
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in Claude, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on recent conversations whose follow-up a partner already sent, and comparing: every promise found, nothing confidential in the draft, every material approved and in date. Include hard cases written in advance: a material whose approval has ended, an introduction not yet agreed, a request for a deal count, a tax question over lunch, a prospective client who describes a dispute. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-referral-source-follow-up&from=gh-law-firm-referral-source-follow-up) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-referral-source-follow-up&from=gh-law-firm-referral-source-follow-up) describes the record we keep.
 
@@ -65,13 +65,13 @@ Testing in your firm means running it on recent conversations whose follow-up a 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

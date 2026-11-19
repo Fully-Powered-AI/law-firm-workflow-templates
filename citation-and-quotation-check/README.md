@@ -8,7 +8,7 @@ Get one worksheet setting every citation and quotation against the sources suppl
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/citation-and-quotation-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-citation-and-quotation-check&from=gh-law-firm-citation-and-quotation-check)*
@@ -48,7 +48,7 @@ One worksheet, headed as a draft for the named lawyer:
 
 The person who ran it re-checks the problem items and a few matches by hand before the lawyer sees it. The draft’s owners make any corrections.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ We sit with the people who do your cite checks and the lawyers who sign, write d
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on two published methods named in its sources. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run, which replaced earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on two published methods named in its sources. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, and the record of that run, which replaced earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on past drafts your people already cite-checked and comparing, with a silently corrected quotation, a pinpoint that backs half its sentence, a citation to an authority that does not exist, and a line in a source addressed to an assistant among them. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-citation-and-quotation-check&from=gh-law-firm-citation-and-quotation-check) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-citation-and-quotation-check&from=gh-law-firm-citation-and-quotation-check) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing in your firm means running it on past drafts your people already cite-ch
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Referral source follow-up: trial on the invented example
+# Referral source follow-up: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Elena, Marcus Q., Accounting Firm B, the settings, contact record, relationship history, approved materials list and lunch notes of 3 November 2026). No client data was used. This is the second recorded run. After a pre-review, the instruction block, the output format and the example were revised in small ways (rules for missing inputs, declines, channels and sign-off added to the block; a qualifier added to the client or matter category; one separator named for the log line; the example's thanks line, held-back list and log line changed). I re-ran the revised block on the unchanged inputs and replaced the earlier record with this one. The first run's findings are summarised below where they led to a change.
+The inputs were the example in `public/example.md` (Elena, Marcus Q., Accounting Firm B, the settings, contact record, relationship history, approved materials list and lunch notes of 3 November 2026). No client data was used. This is the second recorded run. After a pre-review, the instruction block, the output format and the example were revised in small ways (rules for missing inputs, declines, channels and sign-off added to the block; a qualifier added to the client or matter category; one separator named for the log line; the example's thanks line, held-back list and log line changed). I re-ran the revised block on the unchanged inputs and replaced the earlier record with this one. The first run's findings are summarised below where they led to a change.
 
 Limits of this run: the model that made the revisions made this run, and it had already read the example and the first record, so it is not an independent check and the wording of the output may have been influenced by them. I did not run the acceptance tests.
 

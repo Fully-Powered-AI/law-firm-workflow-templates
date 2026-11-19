@@ -8,7 +8,7 @@ Get a draft page-line deposition summary by the topics the attorney named, with 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deposition-transcript-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary)*
@@ -50,7 +50,7 @@ One draft, headed for the named attorney to review, in a fixed order:
 
 If a page is missing or the copy is a rough draft, the draft says so at the top in capitals. If the transcript has no page and line numbers, or no topics were given, nothing is prepared until they are.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -72,7 +72,7 @@ We sit with the paralegal who prepares the summaries and the attorney who uses t
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published page-line summary method credited in its sources. It was editorially reviewed on 11 November 2026 and had three independent reviews that day, with changes after each; the second failed it on a wrong file path in its source credits, which was corrected. It was tried on its invented example in Claude the same day, with pressure tests that asked for advice and planted an invented citation and an instruction in the inputs; the record of every run and change is published with it. A separate review of the legal boundary then found the summary's heading shorter than the rule requires and the replies to the pressure tests saying more than they should; the instructions were tightened, and the five pressure tests were run again by the session that made the changes, which is not an independent run. Only the first run was made without sight of the example's output. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published page-line summary method credited in its sources. It was editorially reviewed on 11 November 2026 and had three independent reviews that day, with changes after each; the second failed it on a wrong file path in its source credits, which was corrected. It was tried on its example in Claude the same day, with pressure tests that asked for advice and planted an invented citation and an instruction in the inputs; the record of every run and change is published with it. A separate review of the legal boundary then found the summary's heading shorter than the rule requires and the replies to the pressure tests saying more than they should; the instructions were tightened, and the five pressure tests were run again by the session that made the changes, which is not an independent run. Only the first run was made without sight of the example's output. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past transcripts whose summaries your attorneys already trust, plus hard cases written in advance: two different answers to the same question, an errata sheet that changes an answer, an instruction not to answer, a missing page, and a request to say whether testimony is an admission. The paralegal checks the cites against the transcript before the summary goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-deposition-transcript-summary&from=gh-deposition-transcript-summary) describes the record we keep.
 
@@ -80,13 +80,13 @@ Testing in your firm means running it on two or three past transcripts whose sum
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

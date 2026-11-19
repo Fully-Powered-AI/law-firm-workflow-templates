@@ -1,6 +1,6 @@
-# Matter-opening checklist preparation: an invented example
+# Matter-opening checklist preparation: an example
 
-*Illustrative example with invented data.* The checklist for Matter 26-0412.
+*Illustrative example with sample data.* The checklist for Matter 26-0412.
 
 **Matter-opening checklist: Matter 26-0412, Client A, contract dispute with Party B**
 

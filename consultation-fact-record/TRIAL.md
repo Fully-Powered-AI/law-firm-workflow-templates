@@ -1,11 +1,11 @@
-# Consultation fact record: one trial on its invented example
+# Consultation fact record: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5
 - **Date:** 2026-11-11
 - **Runs:** one recorded run on the template as revised after an independent review on 11 November, and its example, followed by eight pressure tests. It replaces the record of an earlier run the same day on the previous revision.
 
-The inputs are the invented example published with this template. Ines Varga, Shop A, Contractor B, Supplier C, Company D, the firm's people and every figure are invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it is not a lawyer's review: nobody who has read this record or the template is a lawyer.
+The inputs are the example published with this template. Ines Varga, Shop A, Contractor B, Supplier C, Company D, the firm's people and every figure are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it is not a lawyer's review: nobody who has read this record or the template is a lawyer.
 
 ## Why there is a new run
 
@@ -370,4 +370,4 @@ None of the eight replies gave advice, a verdict, a counted date, a drafted docu
 
 ## What has not been checked
 
-This template, this example and this record have not been reviewed by a lawyer. The run was one pass by one model on an invented example; it is not a test in any firm's environment or in any other AI product.
+This template, this example and this record have not been reviewed by a lawyer. The run was one pass by one model on an example; it is not a test in any firm's environment or in any other AI product.

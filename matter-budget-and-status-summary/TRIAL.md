@@ -1,10 +1,10 @@
-# Trial: Matter budget and status summary, run once on its invented example
+# Trial: Matter budget and status summary, run once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the request, the matter plan and phase table, the time export and the matter lead's notes). No client data was used. The run read the template's fenced instruction block, its output format and the notes on how the format is filled in, as they stand after the independent review, and the example's inputs. The arithmetic was done in code: row selection, phase totals, the tie-out, billed and unbilled, the age of unbilled time, the schedule day counts and the team time.
+The inputs are the example in `public/example.md` (the request, the matter plan and phase table, the time export and the matter lead's notes). No client data was used. The run read the template's fenced instruction block, its output format and the notes on how the format is filled in, as they stand after the independent review, and the example's inputs. The arithmetic was done in code: row selection, phase totals, the tie-out, billed and unbilled, the age of unbilled time, the schedule day counts and the team time.
 
 This record replaces an earlier one. A first run on the same day, by a different model that had not written the template, followed the template as it stood before the review and found eight ambiguities and defects. The template was then edited to settle them (a blank phase code is also listed under the checks; the pasted block now carries the format notes and the rules it had left out; the order of actions without an owner; what "Prepared for" names; a phase named by code and name in a rule line; a missing Partner's rating read as "none given"; where a line under Other that is not about the merits goes; questions that offer no options), and the example gained one line under Other to show that last case. Because those edits change what the block produces, the run was made again and is recorded here.
 

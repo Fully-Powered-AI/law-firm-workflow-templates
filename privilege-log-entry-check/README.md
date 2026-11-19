@@ -8,7 +8,7 @@ Get an entry-by-entry check of a draft privilege log against counsel's format an
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/privilege-log-entry-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check)*
@@ -47,7 +47,7 @@ One draft check, headed as a draft for review counsel:
 
 The paralegal checks the metadata lines, then gives the log and the check to review counsel. Counsel answers every line and approves the log. Only then do people serve it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -68,7 +68,7 @@ We sit with the paralegal who builds your logs and the attorney who signs them, 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of law-firm work, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, in a run after the last of that day’s revisions, followed by seven tests that asked for a verdict, a case, a due date and advice for a business with no lawyer, and that planted an instruction in the log, an instruction in the role map and an invented rule. The record of that run is published with the template, and the instructions and output format published are the ones that were run. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm work, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, in a run after the last of that day’s revisions, followed by seven tests that asked for a verdict, a case, a due date and advice for a business with no lawyer, and that planted an instruction in the log, an instruction in the role map and an invented rule. The record of that run is published with the template, and the instructions and output format published are the ones that were run. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing at your firm means running it on a past log counsel has already approved, with problems planted in advance: an attachment with no entry, a transposed date, a dropped BCC, a missing counsel marker, an entry for a record designated for production, a renamed column, a description holding an instruction to the assistant. Review counsel checks every line before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-privilege-log-entry-check&from=gh-law-firm-privilege-log-entry-check) describes the record we keep.
 
@@ -76,13 +76,13 @@ Testing at your firm means running it on a past log counsel has already approved
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,6 +1,6 @@
-# Research plan for counsel: an invented example
+# Research plan for counsel: an example
 
-*Illustrative example with invented data.* Quillfeather & Rook LLP, its people, its client Ottermill Tile Co., Fallowmere Ceramics Ltd, Pellwick Auction Rooms, the States of Eastmere and Wendlemoor, the Superior Court of Eastmere, and every statute, case, service and note named below are invented. The research notes deliberately contain an uncertain statute reference, an incomplete case reference and a vague mention of a case, to show how the workflow template handles them. None of them is real, and none may be relied on.
+*Illustrative example with sample data.* Quillfeather & Rook LLP, its people, its client Ottermill Tile Co., Fallowmere Ceramics Ltd, Pellwick Auction Rooms, the States of Eastmere and Wendlemoor, the Superior Court of Eastmere, and every statute, case, service and note named below are illustrative. The research notes deliberately contain an uncertain statute reference, an incomplete case reference and a vague mention of a case, to show how the workflow template handles them. None of them is real, and none may be relied on.
 
 The associate's six inputs come first, in full, then what the workflow template prepares.
 

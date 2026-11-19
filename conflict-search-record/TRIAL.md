@@ -1,11 +1,11 @@
-# Conflict search record: one trial on its invented example
+# Conflict search record: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one ordinary run and seven pressure tests, on the template as it stands after the legal-boundary fix of 11 November 2026
 
-The inputs are the invented example published with this template. The law firm, its people, the prospective client, every company and person on the party list, the conflicts export and the firm's search rule are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment or against any real conflicts system, and the template has not been reviewed by a lawyer.
+The inputs are the example published with this template. The law firm, its people, the prospective client, every company and person on the party list, the conflicts export and the firm's search rule are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment or against any real conflicts system, and the template has not been reviewed by a lawyer.
 
 This record replaces the record of an earlier run on the template's earlier wording. That earlier run's output differed from the example in a few labels and in where it listed the paper index, and the template was then edited without a second run. Since then the template has changed again: a missing, undated, unapproved, out-of-date or incomplete search rule now stops the run with nothing compared, and the template no longer carries word lists, an age limit or a related-entity requirement of its own. Because the instruction block changed, it was run again, and this record describes that run.
 

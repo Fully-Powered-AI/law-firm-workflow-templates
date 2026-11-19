@@ -1,6 +1,6 @@
-# Referral source follow-up: an invented example
+# Referral source follow-up: an example
 
-*Illustrative example with invented data.* The firms, the people, the clients, the dates and the materials below are all invented, and the names are made up for this example. Firm A is an invented 35-lawyer business law firm. Elena is a corporate partner there and Sam is an associate on her team. Marcus is a partner at Accounting Firm B, an invented accounting practice that has sent Firm A work before. First come the inputs Elena supplied, in full, then the follow-up the workflow template returned.
+*Illustrative example with sample data.* The firms, the people, the clients, the dates and the materials below are all illustrative, and the names are made up for this example. Firm A is an illustrative 35-lawyer business law firm. Elena is a corporate partner there and Sam is an associate on her team. Marcus is a partner at Accounting Firm B, an illustrative accounting practice that has sent Firm A work before. First come the inputs Elena supplied, in full, then the follow-up the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
-# Weekly open-matter check: an invented example
+# Weekly open-matter check: an example
 
-*Illustrative example with invented data.* The firm, its people, its clients, its matters and every record below are invented. People are shown by role. The firm is a small practice with three attorneys and two paralegals; its operations manager runs the check on Monday 2 November 2026.
+*Illustrative example with sample data.* The firm, its people, its clients, its matters and every record below are illustrative. People are shown by role. The firm is a small practice with three attorneys and two paralegals; its operations manager runs the check on Monday 2 November 2026.
 
 ## What the operations manager supplied
 

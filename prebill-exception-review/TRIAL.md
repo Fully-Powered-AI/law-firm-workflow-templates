@@ -1,10 +1,10 @@
-# Prebill exception review: tried once on its invented example
+# Prebill exception review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Client R, Partner P, Associates Q and S, Paralegal T). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` and read the example's output only after producing its own.
+The inputs are the example in [example.md](example.md) (Client R, Partner P, Associates Q and S, Paralegal T). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` and read the example's output only after producing its own.
 
 ## Inputs used
 
@@ -88,7 +88,7 @@ Prepared from prebill PB-2207 and the exports supplied. No entry, rate, narrativ
   - Block entries are listed under narratives (section 4), not under "Outside the client's billing guidelines" (section 3), even when guideline 3 is cited. The section 3 title and count therefore leave them out. The template says this, but a reader may not expect it.
   - Whether the routing line "once returned, for the billability decision" applies to an expense returned for support that cites guideline 7 (X14) is only implied by "a returned entry". This run applied it.
 - **Told to stop:** nothing.
-- **Shortcomings:** the run is one attempt by one model on one invented example. It shows the instructions can be followed to the published result. It does not show how the template behaves on a real prebill, on other client guidelines, or in other AI products.
+- **Shortcomings:** the run is one attempt by one model on one example. It shows the instructions can be followed to the published result. It does not show how the template behaves on a real prebill, on other client guidelines, or in other AI products.
 
 ## After this run
 

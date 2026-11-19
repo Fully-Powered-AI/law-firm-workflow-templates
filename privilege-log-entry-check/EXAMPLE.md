@@ -1,6 +1,6 @@
-# Privilege log entry check: an invented example
+# Privilege log entry check: an example
 
-*Illustrative example with invented data.* Bramblecote Ashby LLP, its people, its client Quillmere Pumps Ltd, the other side Corvane Metals Inc., the Superior Court of Eastmere, the case, the log, the export, the role map and the approved log format below are all invented. The format and basis codes are one invented review counsel's choices for one invented matter. They are not any real court's requirements and must not be used for a real log.
+*Illustrative example with sample data.* Bramblecote Ashby LLP, its people, its client Quillmere Pumps Ltd, the other side Corvane Metals Inc., the Superior Court of Eastmere, the case, the log, the export, the role map and the approved log format below are all illustrative. The format and basis codes are one illustrative review counsel's choices for one illustrative matter. They are not any real court's requirements and must not be used for a real log.
 
 The paralegal's five inputs come first, in full, then what the workflow template prepares. In the draft log, each filled Description cell holds review counsel's own text. It is shown here as `[counsel's text]`, because the check reads only whether that cell is filled and never reads, judges or copies what it says.
 

@@ -1,6 +1,6 @@
-# Consultation fact record: an invented example
+# Consultation fact record: an example
 
-*Illustrative example with invented data.* The firm, its people, the prospective client, Shop A, Contractor B, Supplier C, Company D, every other person named and every figure below are invented. Nothing here describes a real consultation, a real business or a real dispute.
+*Illustrative example with sample data.* The firm, its people, the prospective client, Shop A, Contractor B, Supplier C, Company D, every other person named and every figure below are illustrative. Nothing here describes a real consultation, a real business or a real dispute.
 
 The paralegal's three inputs come first, in full, then what the workflow template prepares. The request carries the consultation details and says there is no firm format, and the second input holds both the party list and the list of supplied documents, so the five inputs the workflow template asks for arrive as three.
 

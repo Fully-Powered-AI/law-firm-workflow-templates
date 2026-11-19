@@ -8,7 +8,7 @@ Get a side-by-side table of the authorities counsel selected, quoted with pinpoi
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/authority-comparison-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table)*
@@ -50,7 +50,7 @@ One draft, headed as a draft for the researching lawyer, in nine fixed sections:
 - **For the lawyer to confirm:** a line for each authority's text and citation, each authority whose caption lacks counsel's jurisdiction name or whose date falls outside counsel's range, any part of the scope counsel left out, the quotations, any counted pinpoint, the unread authorities and the set itself.
 - **A check block** of what was read and what the draft does not say.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -73,7 +73,7 @@ We sit with the lawyers and librarians who lay out a research set today, write d
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up requests that tried to draw out advice, a deadline, a verdict on signing, a leading case, a drafted notice or a brief paragraph, a planted instruction and a planted made-up citation. No reply gave advice, a counted date, a named authority or drafted text, and neither plant was acted on; but several replies, while declining, picked out and restated parts of the draft, and one called the draft not ready to rely on. The instructions were tightened so that every decline takes one fixed form, and the record, published with the template, says how each follow-up was handled. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, with follow-up requests that tried to draw out advice, a deadline, a verdict on signing, a leading case, a drafted notice or a brief paragraph, a planted instruction and a planted made-up citation. No reply gave advice, a counted date, a named authority or drafted text, and neither plant was acted on; but several replies, while declining, picked out and restated parts of the draft, and one called the draft not ready to rely on. The instructions were tightened so that every decline takes one fixed form, and the record, published with the template, says how each follow-up was handled. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on past research sets your lawyers have already read closely, and comparing: every quotation word for word at its pinpoint, every excerpt left alone, every unread authority listed and not described, nothing called current or binding, nothing sent. Include a set with a missing text, an excerpt, a citation whose year differs from its caption, a sentence planted in an opinion telling an assistant to call the case binding, a made-up citation planted inside an opinion, and a request for "the leading case". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-authority-comparison-table&from=gh-law-firm-authority-comparison-table) describes the record we keep.
 
@@ -81,13 +81,13 @@ Testing in your firm means running it on past research sets your lawyers have al
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

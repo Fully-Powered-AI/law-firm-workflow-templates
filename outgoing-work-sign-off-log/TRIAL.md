@@ -1,10 +1,10 @@
-# Outgoing work sign-off log: tried once on its invented example
+# Outgoing work sign-off log: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (the request, `signoff-log.csv` and the eight messages). No client data was used. The run was made by a model that did not write the template. It read the template and only the example's inputs, followed the instruction block and the output format, produced the update, and only then compared it with the example's published output and the reviewer checklist.
+The inputs were the example in `public/example.md` (the request, `signoff-log.csv` and the eight messages). No client data was used. The run was made by a model that did not write the template. It read the template and only the example's inputs, followed the instruction block and the output format, produced the update, and only then compared it with the example's published output and the reviewer checklist.
 
 ## What came out
 
@@ -101,7 +101,7 @@ Draft for the Operations manager to check and save. The log has not been saved, 
   - A flagged item that is also under a different person's action (S-103 is returned, so the next move is the preparer's, not Attorney B's) is still listed under Attorney B in "To raise with each attorney". That follows the rule as written; whether it is useful is a judgment for the firm.
   - A date in the message "went to Client A by email this afternoon" gives no closed date, so the message's date (2026-11-11) was used, as the rule says.
 - **Defects found in the template:** none that changed the result. The checklist item "the counts add up" and the note about "[N]" both worked. The acceptance tests in the template are still marked as proposed and were not run by this trial, which covered only the one example.
-- **What this trial does not show.** It ran once, in one product, on one invented input. It does not show how the template behaves on a real firm's export, with renamed columns, covering attorneys, closed days, a first run, or the other acceptance tests. It was not tested in a law firm.
+- **What this trial does not show.** It ran once, in one product, on one sample input. It does not show how the template behaves on a real firm's export, with renamed columns, covering attorneys, closed days, a first run, or the other acceptance tests. It was not tested in a law firm.
 
 ## Edits made after this run
 

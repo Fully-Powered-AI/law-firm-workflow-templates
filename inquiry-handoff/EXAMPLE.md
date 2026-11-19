@@ -1,6 +1,6 @@
-# Inquiry handoff: an invented example
+# Inquiry handoff: an example
 
-*Illustrative example with invented data.* The inquiry as it arrived.
+*Illustrative example with sample data.* The inquiry as it arrived.
 
 | Source | What it holds |
 |----|----|
@@ -8,7 +8,7 @@
 | Call, 12 minutes, same day | Party B ended the supply agreement and holds credits Client A disputes. Party B “belongs to a larger group”. A letter from Party B is dated 28 October. |
 | Email after the call | The supply contract. Its signature page is hard to read. |
 
-*Illustrative example with invented data.* The packet prepared from it.
+*Illustrative example with sample data.* The packet prepared from it.
 
 **Inquiry packet: Client A, contract dispute with Party B**
 

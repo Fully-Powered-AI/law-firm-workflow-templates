@@ -1,6 +1,6 @@
-# Court-order deadline notice preparation: an invented example
+# Court-order deadline notice preparation: an example
 
-*Illustrative example with invented data.* Tallis Marrow LLP, its people, its client, the Superior Court of Eastmere, the order, the rule file and the court-closure list below are all invented. The rule file is one invented firm’s way of counting for an invented court. It is not any real court’s rule and must not be used for a real deadline.
+*Illustrative example with sample data.* Tallis Marrow LLP, its people, its client, the Superior Court of Eastmere, the order, the rule file and the court-closure list below are all illustrative. The rule file is one illustrative firm’s way of counting for an invented court. It is not any real court’s rule and must not be used for a real deadline.
 
 The legal assistant’s four inputs come first, in full, then what the workflow template prepares. The request carries the matter name and case number, the people on the matter and, as the day it was sent, today’s date.
 

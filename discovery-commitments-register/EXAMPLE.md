@@ -1,6 +1,6 @@
-# Discovery requests and commitments register: an invented example
+# Discovery requests and commitments register: an example
 
-*Illustrative example with invented data.* Ashgrove Vell LLP, Strand Merrow LLP, their people, Tessaly Boatworks Ltd, Ormond Vale Coatings Inc., the District Court of Northmarch, the case, the requests, the responses, the production log, the correspondence below and the rule it cites are all invented. No real court, firm, company, person, case or rule is named.
+*Illustrative example with sample data.* Ashgrove Vell LLP, Strand Merrow LLP, their people, Tessaly Boatworks Ltd, Ormond Vale Coatings Inc., the District Court of Northmarch, the case, the requests, the responses, the production log, the correspondence below and the rule it cites are all illustrative. No real court, firm, company, person, case or rule is named.
 
 The paralegal's five inputs come first, in full, then what the workflow template prepares. Page breaks in the served papers are shown as `[page n]`.
 

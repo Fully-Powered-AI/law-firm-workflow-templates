@@ -8,7 +8,7 @@ When a lawyer flags a matter for closure, get one checklist of billing, open tas
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-closing-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation)*
@@ -46,7 +46,7 @@ Good means the records clerk can accept or return the handoff without phoning an
 
 It is a different piece of work from [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation), which sets a matter up, and from [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation), which watches every open matter; this one prepares the end of a single matter. Billing figures that feed it can come from [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation).
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -70,7 +70,7 @@ In professional services and engineering firms the same page serves engagement o
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs: the first found defects and the instructions, output format and example were revised; after an independent review the instructions were revised again in small ways. The record of the third run, made by the model that made the revisions, is published with it. The trial exercised one of the nine acceptance tests. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in three runs: the first found defects and the instructions, output format and example were revised; after an independent review the instructions were revised again in small ways. The record of the third run, made by the model that made the revisions, is published with it. The trial exercised one of the nine acceptance tests. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means preparing checklists for a few recently closed matters and comparing them with what billing and records found, including a matter with an unpaid invoice, one with client property still out, and one flagged with no attorney outcome, which should stop. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-closing-checklist-preparation&from=gh-matter-closing-checklist-preparation) shows the record we keep.
 
@@ -78,13 +78,13 @@ Testing in your firm means preparing checklists for a few recently closed matter
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

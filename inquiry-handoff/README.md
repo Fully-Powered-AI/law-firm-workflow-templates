@@ -8,7 +8,7 @@ Turn each new inquiry into one complete packet for conflict review and the respo
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-inquiry-handoff&from=gh-law-firm-inquiry-handoff)*
@@ -31,11 +31,11 @@ The intake coordinator starts it when an inquiry arrives, before anything goes t
 
 ## What comes out
 
-One packet: the matter as described, the parties for conflict review, each missing item with its supplier, what the attorney must see, the routing and the next action. The example is an invented 40-person litigation and employment firm.
+One packet: the matter as described, the parties for conflict review, each missing item with its supplier, what the attorney must see, the routing and the next action. The example is an illustrative 40-person litigation and employment firm.
 
 Good means the conflicts clerk starts without opening the inbox, and the intake coordinator asks Client A for everything in one message.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -70,7 +70,7 @@ Testing in your firm means running it on recent inquiries, including one with an
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.

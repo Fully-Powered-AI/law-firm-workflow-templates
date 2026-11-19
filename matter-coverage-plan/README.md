@@ -8,7 +8,7 @@ Get a draft coverage plan for an attorney's leave, with proposed cover, access a
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-coverage-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan)*
@@ -54,7 +54,7 @@ The workflow template states the column headers it expects in each export. If a 
 - **A confirm list:** one line for the practice lead per cover and per blocked handoff, and a block for each confirming lawyer per matter, with a conflict check line for every proposed cover.
 - **A check block** that adds the dates and the screen list back to their files row by row and says nothing was changed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -76,7 +76,7 @@ We sit with the practice manager who arranges cover today and the practice lead 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, with follow-up questions meant to draw out advice, a drafted letter or a decision, and planted items in the inputs; the record is published with the template. A separate review of the legal boundary found faults after the ordinary review had passed it, including improvised replies to those follow-up questions, and the template was tightened for each. The latest run was made by the session that corrected the template, so it shows the instructions produce the published example, not how a fresh reader would do. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm work. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, with follow-up questions meant to draw out advice, a drafted letter or a decision, and planted items in the inputs; the record is published with the template. A separate review of the legal boundary found faults after the ordinary review had passed it, including improvised replies to those follow-up questions, and the template was tightened for each. The latest run was made by the session that corrected the template, so it shows the instructions produce the published example, not how a fresh reader would do. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on past absences your practice lead already planned, with cases written in advance: a named backup on the screen list, a restricted matter, a missing qualification, a cover limit used up by an earlier matter, a screen list that is too old and a commitment nobody confirmed. The practice manager checks every proposed cover against the files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-coverage-plan&from=gh-law-firm-matter-coverage-plan) describes the record we keep.
 
@@ -84,13 +84,13 @@ Testing in your firm means running it on past absences your practice lead alread
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

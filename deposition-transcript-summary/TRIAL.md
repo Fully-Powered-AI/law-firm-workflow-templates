@@ -1,11 +1,11 @@
-# Deposition transcript summary: one trial on its invented example
+# Deposition transcript summary: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one ordinary run on the example, then five pressure tests as follow-ups in the same run
 
-The inputs are the invented example published with this template. The firms, the people, the parties, the Superior Court of Valdemere, the case, the transcript, the errata sheet and the two exhibits are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the template has not been reviewed by a lawyer.
+The inputs are the example published with this template. The firms, the people, the parties, the Superior Court of Valdemere, the case, the transcript, the errata sheet and the two exhibits are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the template has not been reviewed by a lawyer.
 
 **A note on the outputs below.** The three recorded outputs were written under the template's earlier output format, and are kept as written because they are the record of what each run produced. Their head, the last line of their check block and their review lines are shorter than the template now requires. A separate review of the legal boundary found that the head left out the statement that the template decides nothing about legal meaning, merit, validity, privilege, conflicts or deadlines, and left "signed" out of the statement that nothing is sent, filed, signed or calendared. The head now reads, as in the example:
 
@@ -317,7 +317,7 @@ Compared with the published example's output afterwards, the run agrees on the p
 
 **Neutral words.** Neither output uses a word on the template's list or one like it outside a quotation. Neither says which of two passages is right.
 
-**The legal boundary.** The template and its profile both say it gives no legal advice; decides nothing about legal meaning, merit, validity, privilege, conflicts or deadlines; and sends, files, signs and calendars nothing. The output is headed as a draft for the named attorney, with a line for each point he must confirm. The example uses an invented court and invented parties and names no real case, statute, rule or court. The profile's "What has been checked" says the template has not been reviewed by a lawyer. No date is counted in this template, so the rule file requirement does not arise.
+**The legal boundary.** The template and its profile both say it gives no legal advice; decides nothing about legal meaning, merit, validity, privilege, conflicts or deadlines; and sends, files, signs and calendars nothing. The output is headed as a draft for the named attorney, with a line for each point he must confirm. The example uses an invented court and illustrative parties and names no real case, statute, rule or court. The profile's "What has been checked" says the template has not been reviewed by a lawyer. No date is counted in this template, so the rule file requirement does not arise.
 
 ## Pressure tests
 
@@ -382,7 +382,7 @@ Items 2 to 4 were not run again. The ordinary run above was made under the earli
 
 ### The citation tests, run again
 
-These replies were written in this session, by the session that made the fix, following the changed instruction block with the output format and the lines on how to fill it in. It is not an independent run. The inputs were the five invented inputs of the example, except where test (g) says otherwise, and the draft in context was the example's output as it now stands, in which the errata change is D3.
+These replies were written in this session, by the session that made the fix, following the changed instruction block with the output format and the lines on how to fill it in. It is not an independent run. The inputs were the five sample inputs of the example, except where test (g) says otherwise, and the draft in context was the example's output as it now stands, in which the errata change is D3.
 
 **Planted and invented for these tests.** The case named below does not exist, and the court and reporter it names are invented.
 
@@ -425,7 +425,7 @@ The template passed an independent review the same day, with minor points. They 
 
 ### Who ran it
 
-These runs were made by a session that did not write the template or make the earlier fixes, but that applied this round's changes and had read the example's output, the record above and the reviewer's points before running. It is not an independent or blind run, and its agreement with the example is weaker evidence for that reason. The inputs were the five invented inputs of the example, and nothing else.
+These runs were made by a session that did not write the template or make the earlier fixes, but that applied this round's changes and had read the example's output, the record above and the reviewer's points before running. It is not an independent or blind run, and its agreement with the example is weaker evidence for that reason. The inputs were the five sample inputs of the example, and nothing else.
 
 ### What came out
 
@@ -711,7 +711,7 @@ A second independent review, made the same day after the section above was writt
 
 ### Who ran it
 
-This run was made by the session that applied this round's changes, after reading the example's output, the record above and the reviewer's points. It is not an independent or blind run, and its agreement with the example is weak evidence for that reason. The inputs were the five invented inputs of the example, and nothing else. The output below was written from the inputs under the changed instruction block, the output format and the lines on how to fill it in, and then compared with the example.
+This run was made by the session that applied this round's changes, after reading the example's output, the record above and the reviewer's points. It is not an independent or blind run, and its agreement with the example is weak evidence for that reason. The inputs were the five sample inputs of the example, and nothing else. The output below was written from the inputs under the changed instruction block, the output format and the lines on how to fill it in, and then compared with the example.
 
 ### What came out
 

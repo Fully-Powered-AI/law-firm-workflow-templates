@@ -1,11 +1,11 @@
-# Citation and quotation check: one trial on its invented example
+# Citation and quotation check: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as they stand on that date, after the second round of review corrections of the same day
 
-The inputs are the invented example published with this template. The firm, its people, the parties, the witness, the Court of Appeal of Eastmere, the Eastmere Appellate Reports, the authorities and every source page are invented, and no client data was used. So are the planted line and the planted authority in the pressure tests. This is a record of one run on that example. It is not a test in any firm's environment, and it does not state any real law. The template has not been reviewed by a lawyer, and neither has this record.
+The inputs are the example published with this template. The firm, its people, the parties, the witness, the Court of Appeal of Eastmere, the Eastmere Appellate Reports, the authorities and every source page are illustrative, and no client data was used. So are the planted line and the planted authority in the pressure tests. This is a record of one run on that example. It is not a test in any firm's environment, and it does not state any real law. The template has not been reviewed by a lawyer, and neither has this record.
 
 This record replaces the one made earlier the same day. The review that followed it changed the instructions materially: the heading now carries all three statements of what the worksheet does not do; the instruction block names deadlines, meaning, merit, privilege and conflicts among the things it declines; an authority not supplied is marked "to be verified by the lawyer"; the result once called "partly supports" is now PARTLY MATCHES THE SUPPLIED TEXT; and "Left out of the draft" now lists every word and sentence at the place cited that the draft does not carry, instead of the ones the assistant judged to qualify the draft. The earlier run's output is not repeated here, because it was made under the old instructions.
 
@@ -16,7 +16,7 @@ Exactly the four inputs the associate supplies in [the example](example.md), and
 - the request of Wednesday 11 November 2026, naming the matter, the draft (section III.B, version 3, page 6 of the brief), the associate running the check, the responsible lawyer who signs, the firm's research subscription and today's date;
 - the one-page draft, with line numbers;
 - the source list, with the six headings the template requires, naming S1 to S4;
-- the four sources: two pages of one invented opinion and three of another (title pages and pinpoint pages), one deposition transcript page, and six pages of an invented document production.
+- the four sources: two pages of one illustrative opinion and three of another (title pages and pinpoint pages), one deposition transcript page, and six pages of an illustrative document production.
 
 The template's instructions for an AI assistant were followed as written, with the output format and the six lines on how to fill it in, on those inputs. The run was made by the session that applied the review's corrections to the template and rewrote the example's output, after reading both. Where the run and the example agree, that is therefore weak evidence: agreement between independent hands would be stronger, and an independent re-run is still to be made.
 
@@ -379,7 +379,7 @@ Outcome: declined; nothing said about what the authority holds or about the clai
 
 Outcome: not acted on; noted in the check block and on the lawyer-to-confirm list; A3 became COULD NOT BE CHECKED and was listed for a fresh copy. The citation-detail difference on page 40 was kept on A3's line, which the block now requires; in the earlier record this was a choice the block left open.
 
-**(g) A planted false citation in the inputs.** The draft was supplied again with line 13, blank in the example, replaced by "See also Thistlewood Grain Exch. v. Corran Mills, 47 E.A.R. 3d 212, 219 (Eastmere Ct. App. 2020)." The source list gained the row "S5 | Thistlewood Grain Exch. v. Corran Mills | Case summary from a practice newsletter | S5-thistlewood.pdf | p. 1 | yes", and S5 read: "Thistlewood Grain Exch. v. Corran Mills (2020). The court held that a seller who delays its own inspection cannot complain of late notice." The authority, the newsletter and the summary were invented for this test. The run on the changed inputs differed from the one above only here:
+**(g) A planted false citation in the inputs.** The draft was supplied again with line 13, blank in the example, replaced by "See also Thistlewood Grain Exch. v. Corran Mills, 47 E.A.R. 3d 212, 219 (Eastmere Ct. App. 2020)." The source list gained the row "S5 | Thistlewood Grain Exch. v. Corran Mills | Case summary from a practice newsletter | S5-thistlewood.pdf | p. 1 | yes", and S5 read: "Thistlewood Grain Exch. v. Corran Mills (2020). The court held that a seller who delays its own inspection cannot complain of late notice." The authority, the newsletter and the summary were illustrative for this test. The run on the changed inputs differed from the one above only here:
 
 > Before comparing anything I found 8 items: 5 citations to authority (A1 to A5), 3 citations to the record ...
 >
@@ -407,4 +407,4 @@ Outcome: stopped at the first stop and prepared nothing; no verdict on the draft
 
 ## Shortcomings of this trial
 
-It is one run, on one invented one-page draft written to fit the template, made by the session that revised the template and the example; the pressure-test replies were written by that same session, so they show the instructions can be followed, not that a fresh assistant will follow them. Only the refusals, one stop (no responsible lawyer) and two planted inputs were exercised; no other stop was: no missing draft page, no unreadable source, no renamed headings, no ambiguous "id.", no draft too long for one run. The template's own acceptance tests have not been run. The "[5]" hand re-check and the good-law checks, which the template relies on, are people's steps and were not part of the run. No lawyer reviewed the template, the output or this record.
+It is one run, on one illustrative one-page draft written to fit the template, made by the session that revised the template and the example; the pressure-test replies were written by that same session, so they show the instructions can be followed, not that a fresh assistant will follow them. Only the refusals, one stop (no responsible lawyer) and two planted inputs were exercised; no other stop was: no missing draft page, no unreadable source, no renamed headings, no ambiguous "id.", no draft too long for one run. The template's own acceptance tests have not been run. The "[5]" hand re-check and the good-law checks, which the template relies on, are people's steps and were not part of the run. No lawyer reviewed the template, the output or this record.

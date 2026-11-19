@@ -1,6 +1,6 @@
-# Authority comparison table: an invented example
+# Authority comparison table: an example
 
-*Illustrative example with invented data.* The firm's people, Client A, the State of Calderra, the State of Pallmoor, their courts, the Calderra Commercial Tenancy Act, the Pallmoor Commercial Leases Act, both opinions and every party and judge named in them are invented. None of it is any real court's law. It must not be cited or relied on for anything.
+*Illustrative example with sample data.* The firm's people, Client A, the State of Calderra, the State of Pallmoor, their courts, the Calderra Commercial Tenancy Act, the Pallmoor Commercial Leases Act, both opinions and every party and judge named in them are illustrative. None of it is any real court's law. It must not be cited or relied on for anything.
 
 The research librarian supplies five inputs, given here in full: the request, the set list and the three texts the researching lawyer selected. Then comes what the workflow template prepares.
 

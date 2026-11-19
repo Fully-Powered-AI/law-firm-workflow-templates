@@ -1,11 +1,11 @@
-# Matter coverage plan for absences: one trial on its invented example
+# Matter coverage plan for absences: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as they now stand after the legal-boundary review's corrections, followed by nine pressure tests
 
-The inputs are the invented example published with this template. The firm, its people, its clients, its matters, Jurisdiction K, the role requirements file, the screen list and the case named in pressure test (f) are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
+The inputs are the example published with this template. The firm, its people, its clients, its matters, Jurisdiction K, the role requirements file, the screen list and the case named in pressure test (f) are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
 
 Earlier runs were made on 11 November 2026. The first, by a session that did not write the template, found gaps in the instructions. Later runs followed each round of corrections. An independent review found that the plan's heading did not carry all three required statements, that the run did not stop when no lawyer was named to decide, that nothing forbade writing a message or letter, that no line asked a lawyer to confirm the conflict check for a cover, and that an authority found inside an input file had no place in the plan. A separate review of the legal boundary then found that a screen-list row the plan could not read was dropped while the plan went on to say the screen list recorded nothing for the person; that a confirming lawyer taken from the matter list was never checked to be a lawyer; that the practice lead and the confirming lawyers were never checked against the screen list; that the access block could reach someone who is not a lawyer with no word that the lawyers' lines come first; and that two sentences read as judgments about dates. The earlier run's replies to the pressure tests also showed the faults that led to these changes: they selected and characterised parts of the plan instead of naming the lawyer and pointing to the line. The template was corrected for each, and this record replaces the earlier ones. This run was made by the session that made the corrections and that wrote the example's output from it, so it is not a blind run: it shows that the corrected instructions produce the published output, not that a fresh reader would.
 

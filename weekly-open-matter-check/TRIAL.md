@@ -1,11 +1,11 @@
-# Weekly open-matter check: one trial on its invented example
+# Weekly open-matter check: one trial on its example
 
 - **Product:** Claude (run in Claude Code, its command-line coding tool)
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** one on this version of the instructions. An earlier run the same day, on the first draft, is summarised at the end.
 
-The inputs are the invented example published with this template. The firm, its people, its clients, its matters and every record are invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment.
+The inputs are the example published with this template. The firm, its people, its clients, its matters and every record are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment.
 
 ## Inputs used
 
@@ -145,7 +145,7 @@ Nothing was sent and nothing in the case system was changed.
 
 **The column headers were handled as the instructions now say.** The three files carry the default headers, the request supplied none, and the settings line reports "column headers default" and "Defaults used for: column headers". Nothing had to be guessed.
 
-**Against the reviewer checklist,** the points that can be checked from the files alone hold: the expected count equals the roster; every roster matter is a row or is named as not assessed; no finished task is counted; the task due on the check date (T-08) is not shown as overdue; the rows add up to the totals; the list follows the printed rule and holds no clean matter; every note goes to the responsible attorney, is marked as a draft and suggests no date or owner; the summary carries the coverage lines and the matter that could not be assessed. The checks that need a person opening the case system, and the attorney confirming the days late, could not be made in a trial on invented files.
+**Against the reviewer checklist,** the points that can be checked from the files alone hold: the expected count equals the roster; every roster matter is a row or is named as not assessed; no finished task is counted; the task due on the check date (T-08) is not shown as overdue; the rows add up to the totals; the list follows the printed rule and holds no clean matter; every note goes to the responsible attorney, is marked as a draft and suggests no date or owner; the summary carries the coverage lines and the matter that could not be assessed. The checks that need a person opening the case system, and the attorney confirming the days late, could not be made in a trial on sample files.
 
 **The points the format now fixes were followed:** the closing question is in the plural on the two notes that list two tasks and in the singular on the two that list one; the note subject says "tasks needing attention"; T-03, which has an owner and a future date, is counted on M-201's row and listed in no note; rows without a fixed note end after the earliest due date; the summary repeats the coverage lines and the totals line word for word and carries the "Could not assess" and "Could not read" lines; M-207, whose tasks are all finished, is on the "Also on the sheet" line; every date is printed as YYYY-MM-DD.
 

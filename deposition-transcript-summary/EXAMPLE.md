@@ -1,6 +1,6 @@
-# Deposition transcript summary: an invented example
+# Deposition transcript summary: an example
 
-*Illustrative example with invented data.* Ferrand Quill LLP, Selwick Danner LLP, Orrin Valley Produce Co., Kestrelmark Cold Storage, Inc., every person named, the Superior Court of Valdemere, the case, the transcript, the errata sheet and the two documents below are all invented. Nothing here describes a real case, court or person.
+*Illustrative example with sample data.* Ferrand Quill LLP, Selwick Danner LLP, Orrin Valley Produce Co., Kestrelmark Cold Storage, Inc., every person named, the Superior Court of Valdemere, the case, the transcript, the errata sheet and the two documents below are all illustrative. Nothing here describes a real case, court or person.
 
 The paralegal's five inputs come first, in full, then what the workflow template prepares.
 

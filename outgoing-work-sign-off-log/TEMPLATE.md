@@ -308,4 +308,4 @@ do not repeat it; tell the user to remove it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI, adapting the idea of a law-clinic review queue to the business side of a firm. Records status only, from an exported log with stated column headers and the messages supplied. Tried once on its invented example on 10 November 2026, with the record published with it; the clarifications to steps 3, 5 and 7 and instruction rules 5 and 15 that settle points that trial raised were made afterward and have not been run again. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI, adapting the idea of a law-clinic review queue to the business side of a firm. Records status only, from an exported log with stated column headers and the messages supplied. Tried once on its example on 10 November 2026, with the record published with it; the clarifications to steps 3, 5 and 7 and instruction rules 5 and 15 that settle points that trial raised were made afterward and have not been run again. Not yet tested in a client environment.

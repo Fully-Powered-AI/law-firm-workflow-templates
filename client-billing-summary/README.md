@@ -8,7 +8,7 @@ Before an invoice goes out, get a client-readable summary tied to the pre-bill, 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary)*
@@ -36,7 +36,7 @@ One document in two parts. Part A, for the client once the attorney approves it:
 
 If the exports do not add up to the pre-bill, nothing is drafted until the billing coordinator finds why. A good result lets the attorney clear the month's billing in one review, with no surprises from the client afterward.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ We set this up with the billing coordinator and a responsible attorney, on past 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published billing summary method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in four runs; the instructions were revised after each of the first three, and the record of the fourth is published with it. That run did not reach any stop condition. After that run only the example's own output was edited, to agree with the instructions; the instructions were not changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published billing summary method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in four runs; the instructions were revised after each of the first three, and the record of the fourth is published with it. That run did not reach any stop condition. After that run only the example's own output was edited, to agree with the instructions; the instructions were not changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past pre-bills whose client deductions you already know, plus hard cases written in advance: exports that do not add up to the pre-bill, a rate above the approved rate, two people billing the same internal meeting, a description that names a settlement position. The billing coordinator checks every figure against the pre-bill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) shows the record we keep.
 
@@ -64,13 +64,13 @@ Testing in your firm means running it on two or three past pre-bills whose clien
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

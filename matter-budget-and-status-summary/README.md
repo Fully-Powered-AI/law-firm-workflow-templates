@@ -8,7 +8,7 @@ Give the responsible partner one matter whole: phases, budget against fees to da
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary)*
@@ -44,7 +44,7 @@ One summary in a fixed order. The status comes first, with each rule that set it
 
 After the numbers: hours and fees by timekeeper, the risks and next actions in the matter lead's own words with their owners, what the firm is waiting on the client for, the questions for the responsible partner, the checks for the billing coordinator, and a line counting anything left out because it spoke to the merits.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -64,7 +64,7 @@ Set your own thresholds for amber and red, the grace a late phase gets, and the 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on two openly licensed matter-reporting methods credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it. That run did not reach the stop conditions, a late phase or a phase with no estimate to complete. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on two openly licensed matter-reporting methods credited with it. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in one run; the record is published with it. That run did not reach the stop conditions, a late phase or a phase with no estimate to complete. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past matters whose budgets your partners remember well, plus hard cases written in advance: phase budgets that do not add up, a phase with no estimate to complete, time on another matter or after the as-of date, an export with a renamed column, a note that comments on the merits. The billing coordinator checks every figure against the billing system before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-budget-and-status-summary&from=gh-matter-budget-and-status-summary) describes the record we keep.
 
@@ -72,13 +72,13 @@ Testing in your environment means running it on two or three past matters whose 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

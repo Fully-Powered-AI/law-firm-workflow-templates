@@ -1,6 +1,6 @@
-# Hearing preparation pack: an invented example
+# Hearing preparation pack: an example
 
-*Illustrative example with invented data.* Marrowgate Pell LLP, Quorvale Fixtures, Inc., Tamberlyn Freight LLC, every person named, the Superior Court of Vellandor and its County of Marrowfield, the case, the docket, the notice, the order, the declarations, the tracker, the checklist and the rule file below are all invented. Nothing here describes a real case, court, firm or person.
+*Illustrative example with sample data.* Marrowgate Pell LLP, Quorvale Fixtures, Inc., Tamberlyn Freight LLC, every person named, the Superior Court of Vellandor and its County of Marrowfield, the case, the docket, the notice, the order, the declarations, the tracker, the checklist and the rule file below are all illustrative. Nothing here describes a real case, court, firm or person.
 
 The paralegal's eight inputs come first, in full, then what the workflow template prepares: the pack and the open-items list.
 

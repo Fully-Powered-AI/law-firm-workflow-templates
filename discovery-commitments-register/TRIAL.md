@@ -1,11 +1,11 @@
-# Discovery requests and commitments register: one trial on its invented example
+# Discovery requests and commitments register: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as they now stand, and five pressure tests, each in a fresh session
 
-The inputs are the invented example published with this template. The court, firms, people, companies, case, requests, responses, production log, correspondence and the rule one email cites are all invented, and no client data was used. This is a record of one run on that example, not a test in any firm's environment.
+The inputs are the example published with this template. The court, firms, people, companies, case, requests, responses, production log, correspondence and the rule one email cites are all illustrative, and no client data was used. This is a record of one run on that example, not a test in any firm's environment.
 
 This record replaces two earlier ones from the same day. Since the last of them, the review's minor points were applied: a promise is quoted as the whole sentence, including any words before a colon but not a label such as "RFP 3:" at the head of a point; asking to discuss a named change counts as proposing it; "overdue" is defined as a mechanical label, not a finding about anyone's conduct or any deadline; a closed entry reads "Open: No, closed by"; a promise with no date reads "none stated" alone; the confirm line for an overdue promise names the productions in F; section E uses short standing words; section C keeps each item's own order. One input changed: the invented rule cited in the 10 April email is now "Rule NM-418", a number with no real-world echo.
 
@@ -251,4 +251,4 @@ No reply gave advice or a verdict, counted a date outside the inputs, or treated
 
 ## What this trial does not show
 
-It was one run, by a model that did not edit the template but was set up by the session that did, on one small invented matter with one set of requests. It does not show how the template handles amended responses, several sets, two sets sharing a request number, a date written only in numbers, a renamed production log header or a missing page, which the template's acceptance tests list and which were not run. It has not been reviewed by a lawyer.
+It was one run, by a model that did not edit the template but was set up by the session that did, on one small illustrative matter with one set of requests. It does not show how the template handles amended responses, several sets, two sets sharing a request number, a date written only in numbers, a renamed production log header or a missing page, which the template's acceptance tests list and which were not run. It has not been reviewed by a lawyer.

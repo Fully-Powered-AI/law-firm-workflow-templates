@@ -1,6 +1,6 @@
-# Closed-file retention review: an invented example
+# Closed-file retention review: an example
 
-*Illustrative example with invented data.* The law firm Brannock Vell LLP, its people, its clients and their matters, the closed-file inventory, the retention schedule, the hold register and the return-of-originals log below are all invented. The schedule is one invented firm's own; its periods are not a recommendation for any real firm, and no real law, rule or court is behind them. The Thornquill County Court and its "Records Direction 9", cited in one inventory note, are invented too: the citation is planted to show it is not relied on.
+*Illustrative example with sample data.* The law firm Brannock Vell LLP, its people, its clients and their matters, the closed-file inventory, the retention schedule, the hold register and the return-of-originals log below are all illustrative. The schedule is one illustrative firm's own; its periods are not a recommendation for any real firm, and no real law, rule or court is behind them. The Thornquill County Court and its "Records Direction 9", cited in one inventory note, are illustrative too: the citation is planted to show it is not relied on.
 
 The records officer's five inputs come first, in full, then the review the workflow template prepares, and last how its figures were reached.
 

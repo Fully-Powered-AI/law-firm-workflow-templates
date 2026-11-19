@@ -8,7 +8,7 @@ Get a draft hearing pack with the notice, docket, orders, cited witness statemen
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hearing-preparation-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-hearing-preparation-pack&from=gh-law-firm-hearing-preparation-pack)*
@@ -56,7 +56,7 @@ One draft pack, headed for the named attorney to review, in a fixed order:
 
 Then the **open-items list**, in a fixed order, each item with its source and its owner as recorded, and no recommendation. If a page is missing or a later docket entry may have moved the hearing, the pack says so at the top in capitals.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -78,7 +78,7 @@ We sit with the paralegal who builds the packs and the attorneys who argue from 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published hearing preparation method credited in its sources, with that method's issue analysis, legal standards, examination questions and strategic assessment taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, the wording was tightened after an independent review, and it was then run again the same day on the template as it now stands, together with its deposition variant on invented inputs. The record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published hearing preparation method credited in its sources, with that method's issue analysis, legal standards, examination questions and strategic assessment taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, the wording was tightened after an independent review, and it was then run again the same day on the template as it now stands, together with its deposition variant on sample inputs. The record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past hearings your attorneys remember well, plus hard cases written in advance: a docket entry that moves the hearing, an order listed but not supplied, a count with a court closure inside it, a gap in the exhibit numbers, two declarations that disagree, and a request to say which argument is strongest. The paralegal checks every cite and recounts every proposed date before the pack goes to the attorney. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-hearing-preparation-pack&from=gh-law-firm-hearing-preparation-pack) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-hearing-preparation-pack&from=gh-law-firm-hearing-preparation-pack) describes the record we keep.
 
@@ -86,13 +86,13 @@ Testing in your firm means running it on two or three past hearings your attorne
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

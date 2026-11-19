@@ -1,6 +1,6 @@
-# Matter coverage plan for absences: an invented example
+# Matter coverage plan for absences: an example
 
-*Illustrative example with invented data.* The firm, its people, its clients, its matters, the place called Jurisdiction K and every file below are invented. People are shown by role and letter. The firm's disputes team has six lawyers and two paralegals. Attorney B, a senior associate, has approved leave from Monday 23 November to Friday 11 December 2026, and the practice manager prepares the plan on Wednesday 11 November. The role requirements file and the screen list are one invented firm's own records, not anyone's real rules.
+*Illustrative example with sample data.* The firm, its people, its clients, its matters, the place called Jurisdiction K and every file below are illustrative. People are shown by role and letter. The firm's disputes team has six lawyers and two paralegals. Attorney B, a senior associate, has approved leave from Monday 23 November to Friday 11 December 2026, and the practice manager prepares the plan on Wednesday 11 November. The role requirements file and the screen list are one illustrative firm's own records, not anyone's real rules.
 
 The practice manager's inputs come first, in full, then what the workflow template prepares.
 

@@ -1,11 +1,11 @@
-# Court-order deadline notice preparation: one trial on its invented example
+# Court-order deadline notice preparation: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** one, on the template and example as they now stand
 
-The inputs are the invented example published with this template. The firm, its people, its client, the court, the order, the rule file and the court-closure list are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the invented rule file is not any real court's rule.
+The inputs are the example published with this template. The firm, its people, its client, the court, the order, the rule file and the court-closure list are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the invented rule file is not any real court's rule.
 
 This record replaces an earlier one from the same day. The earlier run, on the first text of the template, proposed no date for the meet and confer while the published example proposed one, because the template did not say what a "mixed" sentence was. The template now defines it, the example follows the cautious reading, and several smaller choices the earlier run had to make are now written down. The run below was made after those changes.
 
@@ -16,8 +16,8 @@ Edited after this run, 2026-11-09: the template's instructions were changed in f
 Exactly the four inputs the legal assistant supplies in [the example](example.md), and nothing else:
 
 - the request of Monday 9 November 2026, which says the order is saved to the matter file and gives the matter name, the case number and the four people on the matter;
-- the three-page order of the invented Superior Court of Eastmere, entered November 6, 2026;
-- the invented firm's order deadline rule file, dated 1 October 2026, with rules R-0 and R-1 and its list of counts it does not cover;
+- the three-page order of the illustrative Superior Court of Eastmere, entered November 6, 2026;
+- the illustrative firm's order deadline rule file, dated 1 October 2026, with rules R-0 and R-1 and its list of counts it does not cover;
 - the court-closure list, covering 1 October 2026 to 31 December 2027.
 
 The template's instructions for an AI assistant were given as written, followed by the output format and the five lines on how to fill it in, then these inputs. Two cautions about this record. The example's own output sits in the same file as the inputs, so it was in view. And the session that made this run had just revised the template and the example after review, so it knew what the example's output said. The run was worked from the instructions, and the dates were counted separately with a calculation tool, but it was not a blind run and it is not an independent check of the example.
@@ -153,4 +153,4 @@ Until this line is signed, this is a draft and no date in it is final.
 
 **Using it.** The instruction block does not contain the output format; the template tells the person to paste the format and its five fill-in lines after it, and the block now tells the assistant to ask for the format if it is missing. That request was not exercised here, because the format was supplied.
 
-**Shortcomings of this trial.** It is one run, on one invented order that was written to fit the template, by the session that had just revised the template and the example, with the example's output in view. None of the stops was exercised: no missing page, no missing footer, no proposed or unsigned order, no signed order without an entry date, no caption mismatch, no rule file past its review date, no request to send. The template's own acceptance tests have not been run. No attorney reviewed the output, and the legal assistant's recount on a calendar, which the template relies on, was not part of the run.
+**Shortcomings of this trial.** It is one run, on one illustrative order that was written to fit the template, by the session that had just revised the template and the example, with the example's output in view. None of the stops was exercised: no missing page, no missing footer, no proposed or unsigned order, no signed order without an entry date, no caption mismatch, no rule file past its review date, no request to send. The template's own acceptance tests have not been run. No attorney reviewed the output, and the legal assistant's recount on a calendar, which the template relies on, was not part of the run.

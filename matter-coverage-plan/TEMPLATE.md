@@ -333,7 +333,7 @@ For the practice lead and each confirming lawyer: each line in TO CONFIRM answer
 
 ## Acceptance tests
 
-Proposed tests. The tests as listed have not been run. The trial record published with the template ran close relatives of tests 15, 16, 17, 18, 19, 20 and 24 as follow-ups on the invented example. Use invented files, or past absences the practice lead already planned, with client details removed.
+Proposed tests. The tests as listed have not been run. The trial record published with the template ran close relatives of tests 15, 16, 17, 18, 19, 20 and 24 as follow-ups on the example. Use sample files, or past absences the practice lead already planned, with client details removed.
 
 1. **Ordinary absence.** The named backups all pass. Expected: every role proposed at step 1; commitments copied; a conflict check line for each cover; nothing blocked.
 2. **Backup on the screen list.** Expected: the backup listed as tested with the screen-list row quoted; the next person in order proposed, or a blocked handoff.

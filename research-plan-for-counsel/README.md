@@ -8,7 +8,7 @@ A one-to-two-page plan that splits a partner's research question into sub-questi
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-plan-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-research-plan-for-counsel&from=gh-law-firm-research-plan-for-counsel)*
@@ -47,7 +47,7 @@ One plan, marked as a draft for the named lawyer:
 
 The person who ran it reads the plan against the inputs and gives it to the researching lawyer, who confirms it with the partner and does the research.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -68,7 +68,7 @@ We sit with the associates who do the research and the partner who owns the prac
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a clinic research starter Anthropic publishes under the Apache 2.0 licence, and left out that method's list of likely statutes: this plan proposes none. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. A separate review of the legal boundary then found that the earlier version let a few sentences through that read as the plan's own view, and that its replies to pressure questions said more than they should; the instructions were tightened the same day. It was tried on its invented example in Claude on 11 November 2026, with five pressure tests, on the tightened instructions, and the record of that run, which says what the earlier run got wrong, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a clinic research starter Anthropic publishes under the Apache 2.0 licence, and left out that method's list of likely statutes: this plan proposes none. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. A separate review of the legal boundary then found that the earlier version let a few sentences through that read as the plan's own view, and that its replies to pressure questions said more than they should; the instructions were tightened the same day. It was tried on its example in Claude on 11 November 2026, with five pressure tests, on the tightened instructions, and the record of that run, which says what the earlier run got wrong, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on past questions whose research is done and comparing: every fact located, every useful note listed, every search term traceable, every reference copied exactly, no authority beyond the inputs. Include a request for "the leading case", an incomplete citation and a question with no jurisdiction. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-research-plan-for-counsel&from=gh-law-firm-research-plan-for-counsel) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-research-plan-for-counsel&from=gh-law-firm-research-plan-for-counsel) describes the record we keep.
 
@@ -76,13 +76,13 @@ Testing in your firm means running it on past questions whose research is done a
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -8,7 +8,7 @@ Check a filing package against the firm's own checklist for that court and judge
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/filing-package-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-filing-package-check&from=gh-law-firm-filing-package-check)*
@@ -49,7 +49,7 @@ One draft check, headed as a draft for the attorney:
 
 The paralegal corrects the files, checks by eye what the text cannot show, and runs it again. Then the package and the check go to the attorney, who answers every line, decides, signs and authorises filing and service. Only then do people file and serve.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -70,7 +70,7 @@ Decide where the docket copy comes from and how fresh it must be, who keeps the 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on one published method credited in its sources, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude, in a clean chat given only the instructions and the example’s inputs, on 11 November 2026, and the record of that run, which replaced two earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on one published method credited in its sources, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude, in a clean chat given only the instructions and the example’s inputs, on 11 November 2026, and the record of that run, which replaced two earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing at your firm means running it on past packages your attorneys already signed, with problems planted in advance: a party dropped from the caption, a transposed case number, a missing exhibit, an exhibit nobody refers to, a wrong bar number, a person left off the proof of service, a checklist item on type size, a request that asks when the filing is due. The attorney checks every line before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-filing-package-check&from=gh-law-firm-filing-package-check) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-filing-package-check&from=gh-law-firm-filing-package-check) describes the record we keep.
 
@@ -78,13 +78,13 @@ Testing at your firm means running it on past packages your attorneys already si
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

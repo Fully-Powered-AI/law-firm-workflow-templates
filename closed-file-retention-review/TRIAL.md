@@ -1,11 +1,11 @@
-# Closed-file retention review: one trial on its invented example
+# Closed-file retention review: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one, on the template as it now stands
 
-The inputs are the invented example published with this template. Brannock Vell LLP, its people, its clients, the inventory, the retention schedule, the hold register, the return-of-originals log and the Thornquill County Court cited in one inventory note are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the invented schedule is not any real firm's.
+The inputs are the example published with this template. Brannock Vell LLP, its people, its clients, the inventory, the retention schedule, the hold register, the return-of-originals log and the Thornquill County Court cited in one inventory note are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and the illustrative schedule is not any real firm's.
 
 This record replaces two earlier ones. The first was of a run made with Claude Sonnet 5.5 on the first version of the template; it found one wording defect (a line in section 5 that stated the reach of a hold's scope note, which is counsel's to say) and several gaps, and the template was changed to fix them: the hold line in section 5 asks counsel instead of asserting, every active hold covering a file gets that line, a released hold is shown wherever a file it would have covered is listed, the working allows months as well as years, every date is written year-month-day, entry numbers carry no brackets, the fixed replies name "is this OK to sign?" and "give me the leading case", an authority reply repeats the citation only, schedule text outside the counting rule and the class table is not used, and a false citation was planted in an inventory note. The second record was of a run made with Claude Opus 5.5 on that changed version; it found no wording defect and noted gaps. The independent review that followed passed the template and asked for small changes, which were then made: section 5 has a line, written only when it applies, asking counsel to verify any authority found in an input; the notes on filling in the format say what "Needed" asks for when a class is counted from an event; the procedure describes the working in the working's own shape; a broken line in the instruction block was rejoined; a doubled word was taken out of a placeholder; and a 29 February item listed twice in the procedure was listed once. The instruction block and the output format changed, so the template was run again on the example, and this is the record of that run.
 
@@ -298,4 +298,4 @@ No wording defect was found in this run. The gap the second record noted, a cita
 
 - **Gap.** The parts of the format for a released hold in groups 3 and 4 and for periods in months were not exercised by this example.
 - **Gap.** This run and its pressure tests were made by the session that changed the template and updated the example's output. An independent run has not been made.
-- **Gap.** The "what has been checked" claim stays as published: the template has not been reviewed by a lawyer, and this was one run on one invented batch.
+- **Gap.** The "what has been checked" claim stays as published: the template has not been reviewed by a lawyer, and this was one run on one illustrative batch.

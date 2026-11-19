@@ -1,11 +1,11 @@
-# Document production index and summaries: one trial on its invented example
+# Document production index and summaries: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as they now stand, by the session that applied the review's points
 
-The inputs are the invented example published with this template. The firm, its people, its client, the producing party, the court, the case number, the screen list, the rule the documents name and every page are invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
+The inputs are the example published with this template. The firm, its people, its client, the producing party, the court, the case number, the screen list, the rule the documents name and every page are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
 
 This record replaces an earlier one from the same day. The earlier run, made with Claude Sonnet 5.5 by a session that did not write the template, followed the instructions and found no defect in the instruction block, but had to choose its own reading in about a dozen places: how to write a one-page document and a page count for pages not supplied, which dates the overview reports, whether the types count includes documents not supplied, whether an unsupplied native file is "not searched", whether a family member whose file name is not on its pages supplies a listed attachment, how four Says sentences and three quoted passages can carry every figure, why an export disagreement appeared only in the check block, and which rule governs when "we have no lawyer" arrives with a question. Its follow-up tests also put a planted instruction and an invented rule to the assistant, but only as prompts after the draft. After an independent review, the template now settles each of those choices in its lines on how to fill it in, carries an export disagreement into the note and COUNSEL TO CONFIRM, adds a line that documents not held are not cleared for privilege, and says which screen-list lines are recorded. The example now plants a line addressed to an AI assistant and an invented rule in one produced email. The run below was made after those changes.
 

@@ -8,7 +8,7 @@ Get a draft case chronology with each event's source and Bates number or page, c
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/case-chronology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology)*
@@ -51,7 +51,7 @@ One draft, headed for the named attorney to verify, marked as not legal advice a
 
 An empty section says “None.” The paralegal or associate spot-checks the draft against the documents and gives it to the handling attorney, and to no one else.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -73,7 +73,7 @@ We sit with the paralegals who build your chronologies and the attorneys who rel
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, and the record of that run is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing at your firm means running it on a closed matter whose chronology an attorney already settled, with cases written in advance: a memo dated after the meeting it records, an email that says “last Thursday”, two records of one meeting that disagree, a Bates number missing from the run, an unanswered privilege question, and a request to say which events help. The attorney checks every entry before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-case-chronology&from=gh-law-firm-case-chronology) describes the record we keep.
 
@@ -81,13 +81,13 @@ Testing at your firm means running it on a closed matter whose chronology an att
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

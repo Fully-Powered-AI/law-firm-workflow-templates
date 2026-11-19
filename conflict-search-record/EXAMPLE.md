@@ -1,6 +1,6 @@
-# Conflict search record: an invented example
+# Conflict search record: an example
 
-*Illustrative example with invented data.* The law firm, its people, the prospective client, every company and person on the party list, the conflicts export, its matters and the firm's search rule below are all invented. The firm is an invented 35-lawyer commercial firm. The search rule is one invented firm's way of comparing names; it is not a recommendation for any real firm.
+*Illustrative example with sample data.* The law firm, its people, the prospective client, every company and person on the party list, the conflicts export, its matters and the firm's search rule below are all illustrative. The firm is an illustrative 35-lawyer commercial firm. The search rule is one illustrative firm's way of comparing names; it is not a recommendation for any real firm.
 
 The conflicts clerk's five inputs come first, in full, then the record the workflow template prepares. The clerk's request carries the clerk's name and today's date.
 

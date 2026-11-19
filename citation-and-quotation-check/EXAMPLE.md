@@ -1,6 +1,6 @@
-# Citation and quotation check: an invented example
+# Citation and quotation check: an example
 
-*Illustrative example with invented data.* The firm, its people, the parties, the witness, the Court of Appeal of Eastmere, the Eastmere Appellate Reports (E.A.R.), the three authorities and every page below are invented. None is a real firm, person, court, case or report, and nothing here states any real law.
+*Illustrative example with sample data.* The firm, its people, the parties, the witness, the Court of Appeal of Eastmere, the Eastmere Appellate Reports (E.A.R.), the three authorities and every page below are illustrative. None is a real firm, person, court, case or report, and nothing here states any real law.
 
 The associate’s four inputs come first, in full, then what the workflow template prepares. The request names the matter, the draft, the person running the check, the responsible lawyer, the research service and today’s date.
 

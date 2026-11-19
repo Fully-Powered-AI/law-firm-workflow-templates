@@ -1,6 +1,6 @@
-# Outgoing work sign-off log: an invented example
+# Outgoing work sign-off log: an example
 
-*Illustrative example with invented data.* The firm, its people, its clients, its matters and every record and message below are invented. People are shown by role: three attorneys (Attorney A, B and C), two associates, two paralegals and a billing coordinator. The firm's operations manager updates the sign-off log on the morning of Thursday 12 November 2026. The inputs come first, in full, then the update the workflow template is meant to return.
+*Illustrative example with sample data.* The firm, its people, its clients, its matters and every record and message below are illustrative. People are shown by role: three attorneys (Attorney A, B and C), two associates, two paralegals and a billing coordinator. The firm's operations manager updates the sign-off log on the morning of Thursday 12 November 2026. The inputs come first, in full, then the update the workflow template is meant to return.
 
 ## What the operations manager supplied
 

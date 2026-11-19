@@ -8,7 +8,7 @@ Keep each discovery request and response in the words served, with Bates ranges 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discovery-commitments-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register)*
@@ -48,7 +48,7 @@ One draft register, headed as a draft for the handling attorney:
 
 The paralegal checks each quotation, page and Bates range against the papers and gives the register to the handling attorney. The attorney answers each line and decides whether anything follows. Any letter, call or motion is the attorney's, and people write and send it. The register stays in the matter file; it is not for the client or the other side.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ We sit with the paralegal who keeps your discovery record and the attorney who r
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on a published discovery tracking method credited in its sources, with that method's deficiency findings, proposed cures, sanctions flags and deadline counting taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run, which replaced two earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on a published discovery tracking method credited in its sources, with that method's deficiency findings, proposed cures, sanctions flags and deadline counting taken out. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its example in Claude on 11 November 2026, and the record of that run, which replaced two earlier ones from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing at your firm means running it on a past matter whose discovery your attorney already knows, with hard cases planted in advance: a response that answers two requests together, an amended response, a promise made only on a call, the same promise repeated in an email, "within two weeks", a promise with a condition, a production whose cover letter names no request, and a request to say whether a response is deficient. The paralegal checks every quotation and date against the papers before the attorney relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-discovery-commitments-register&from=gh-discovery-commitments-register) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing at your firm means running it on a past matter whose discovery your atto
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

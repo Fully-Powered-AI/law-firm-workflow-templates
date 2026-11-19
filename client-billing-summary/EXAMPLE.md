@@ -1,6 +1,6 @@
-# Client billing summary: an invented example
+# Client billing summary: an example
 
-*Illustrative example with invented data.* The firm, the client, the other party, the vendors, every entry, every guideline and every figure below are invented. The firm is an invented 30-person business law firm. Its billing coordinator prepares the October invoice on a dispute it handles for Client A against Supplier B, and the responsible attorney, Partner A, reviews it. Timekeepers are referred to by role and letter, and vendors by letter.
+*Illustrative example with sample data.* The firm, the client, the other party, the vendors, every entry, every guideline and every figure below are illustrative. The firm is an illustrative 30-person business law firm. Its billing coordinator prepares the October invoice on a dispute it handles for Client A against Supplier B, and the responsible attorney, Partner A, reviews it. Timekeepers are referred to by role and letter, and vendors by letter.
 
 The inputs come first, in full, so the template can be run on them. The summary follows.
 

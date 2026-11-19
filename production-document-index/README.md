@@ -8,7 +8,7 @@ Get a draft index and Bates-cited summaries of a cleared production, with missin
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/production-document-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index)*
@@ -52,7 +52,7 @@ One draft, headed for the named counsel to review, saying that it gives no legal
 
 An empty section says so. If pages listed in the export were not supplied, the draft says NOT READY FOR COUNSEL at the top. If the screen list or the clearance note is missing, or the export's headers differ, nothing is prepared until they are supplied.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -74,7 +74,7 @@ We sit with the paralegals and litigation support staff who review your producti
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published discovery document summary method credited in its sources. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run, which replaced an earlier one from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published discovery document summary method credited in its sources. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, and the record of that run, which replaced an earlier one from the same day, is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your team means running it on a past production whose review your counsel already settled, plus hard cases written in advance: an email to a lawyer on the screen list with an attachment that matches nothing, a "see attached" with no attachment produced, two documents giving different times for the same event, a gap in the Bates numbers, a slip sheet for a native file, and a request to say which documents are hot. The paralegal checks the cites against the pages before the draft goes to counsel. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-production-document-index&from=gh-law-firm-production-document-index) describes the record we keep.
 
@@ -82,13 +82,13 @@ Testing in your team means running it on a past production whose review your cou
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

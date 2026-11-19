@@ -8,7 +8,7 @@ Get one checklist for every accepted matter: system fields, billing terms from t
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation)*
@@ -32,11 +32,11 @@ The firm administrator starts it once the responsible attorney has accepted the 
 
 ## What comes out
 
-A checklist in four parts: matter fields ready to enter, billing terms with their source clause, documents on file, and open items with an owner and the step each blocks. The example continues [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) at the same invented 40-person litigation and employment firm.
+A checklist in four parts: matter fields ready to enter, billing terms with their source clause, documents on file, and open items with an owner and the step each blocks. The example continues [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-matter-opening-checklist-preparation&from=gh-matter-opening-checklist-preparation) at the same illustrative 40-person litigation and employment firm.
 
 Good means the billing coordinator sets up billing without rereading the engagement letter, and sees the two answers that stand between Matter 26-0412 and a correct first invoice.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -75,7 +75,7 @@ Testing in your firm means preparing checklists for recently opened matters and 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.

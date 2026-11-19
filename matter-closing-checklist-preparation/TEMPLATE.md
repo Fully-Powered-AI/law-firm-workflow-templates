@@ -136,7 +136,7 @@ When a section is empty, print its heading and "none".
 
 ## Acceptance tests
 
-Proposed tests. Only the first has been run, once, on the invented example (see the trial record published with the template); the others have not been run.
+Proposed tests. Only the first has been run, once, on the example (see the trial record published with the template); the others have not been run.
 
 1. **The worked example.** Expected: 8,806.25 open across 3 lines (outstanding on issued invoices, drafts, unbilled time and expenses), 2,500.00 held separately, 3 unreturned items, 3 of 8 done, 5 handoffs awaiting acceptance.
 2. **No outcome note.** Expected: "Stopped: attorney's outcome note missing or duplicated."
@@ -271,4 +271,4 @@ an empty section. Add no fact that is not in the inputs.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 10 November 2026: a first run found defects and the instructions, output format and example were revised. After an independent review the instructions and output format were revised again in small ways (exceptions for a named related matter, the outcome cut-off, the billed-total label, an optional previous checklist for reruns), and a third run is the one recorded in the trial. That run was made by the model that made the revisions, so it is not an independent check. No edit was made to the instructions, output format or example after the recorded run. Not yet tested in a client environment and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example on 10 November 2026: a first run found defects and the instructions, output format and example were revised. After an independent review the instructions and output format were revised again in small ways (exceptions for a named related matter, the outcome cut-off, the billed-total label, an optional previous checklist for reruns), and a third run is the one recorded in the trial. That run was made by the model that made the revisions, so it is not an independent check. No edit was made to the instructions, output format or example after the recorded run. Not yet tested in a client environment and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

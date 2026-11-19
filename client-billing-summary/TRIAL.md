@@ -1,11 +1,11 @@
-# Client billing summary: trial on the invented example
+# Client billing summary: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The firm, the client, the other party, the vendors, the entries, the guidelines and the figures are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any firm's environment.
+This is a record of one run of the workflow template on its own example. The firm, the client, the other party, the vendors, the entries, the guidelines and the figures are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any firm's environment.
 
 This is the fourth run on the same example, all on 10 November 2026. The first three showed where the instructions left room to guess; the instructions and a few lines of the example's inputs were revised after them, and the run recorded here was made on the revised instructions. What the earlier runs found, and what was changed, is at the end.
 
@@ -127,7 +127,7 @@ Where the run departed from the output format or the example:
 
 Facts not in the inputs: none found. Every narrative uses words from the entries and expenses; the review of the first production set is described as before service, as entry 1014 says.
 
-This is one run, by one assistant, on an invented example. It shows the instructions can be followed to a complete output that matches the example's flags and figures. It does not show how the template behaves with real exports, other guidelines or other AI products.
+This is one run, by one assistant, on an example. It shows the instructions can be followed to a complete output that matches the example's flags and figures. It does not show how the template behaves with real exports, other guidelines or other AI products.
 
 ## The earlier runs, and what changed
 

@@ -8,7 +8,7 @@ Before the billing attorney opens a prebill, every awkward entry is marked and s
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Law firms · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prebill-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review)*
@@ -39,7 +39,7 @@ One exception sheet for the matter. It opens with a tie-out proving the exports 
 
 The sheet closes with the guideline rules it checked and those it could not check from the exports, and a list of who has what: each timekeeper's returns, the billing attorney's decisions, and finance's approval once those are in.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -63,7 +63,7 @@ We set this up with your billing coordinator and a billing attorney, on past pre
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of law-firm billing work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of law-firm billing work. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your firm means running it on two or three past prebills whose problems your billing coordinator already found, plus hard cases written in advance: exports that do not add up to the prebill, a timekeeper still billed at last year's client rate, the same entry recorded twice, a day over the client's hours limit, a narrative that names a negotiating position, an expense with no receipt. The billing coordinator checks every line against the prebill before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-prebill-exception-review&from=gh-law-firm-prebill-exception-review) shows the record we keep.
 
@@ -71,13 +71,13 @@ Testing in your firm means running it on two or three past prebills whose proble
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

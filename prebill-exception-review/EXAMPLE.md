@@ -1,6 +1,6 @@
-# Prebill exception review: an invented example
+# Prebill exception review: an example
 
-*Illustrative example with invented data.* The firm, the client, the landlord, the vendors, every entry, every rate, every guideline and every figure below are invented. The firm is an invented 22-lawyer business law firm. Its billing coordinator prepares the exception sheet for the October prebill on a lease renewal it is negotiating for Client R, an invented food distributor, before the billing attorney, Partner P, reviews the prebill. Timekeepers are referred to by role and letter, and vendors by letter.
+*Illustrative example with sample data.* The firm, the client, the landlord, the vendors, every entry, every rate, every guideline and every figure below are illustrative. The firm is an illustrative 22-lawyer business law firm. Its billing coordinator prepares the exception sheet for the October prebill on a lease renewal it is negotiating for Client R, an illustrative food distributor, before the billing attorney, Partner P, reviews the prebill. Timekeepers are referred to by role and letter, and vendors by letter.
 
 The inputs come first, in full, so the template can be run on them. The exception sheet follows.
 

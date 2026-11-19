@@ -1,11 +1,11 @@
-# Research plan for counsel: one trial on its invented example
+# Research plan for counsel: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5
 - **Date:** 2026-11-11
 - **Runs:** one, on the template as revised after the separate review of the legal boundary on 11 November 2026 (version 0.1.0), with five pressure tests. This record replaces two earlier ones from the same day: the first made on an earlier wording, the second on the wording the boundary review then faulted.
 
-The inputs are the invented example published with this template. The firm, its people, its client, the seller, the auction house, the States of Eastmere and Wendlemoor and the Superior Court of Eastmere, the practice notes, the research services and every reference in the notes are invented, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
+The inputs are the example published with this template. The firm, its people, its client, the seller, the auction house, the States of Eastmere and Wendlemoor and the Superior Court of Eastmere, the practice notes, the research services and every reference in the notes are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any firm's environment, and it has not been reviewed by a lawyer.
 
 This run and the pressure tests were made by the session that revised the template after the boundary review. That session had read the earlier outputs, the earlier replies and the review's findings before it ran, and the published example's output is the output of this run. Agreement between the two is therefore not independent evidence. The replies recorded here show that the revised instructions can be followed cleanly; they do not show that another assistant will follow them.
 
@@ -256,7 +256,7 @@ Until this line is signed, this is a draft.
 - *What names an authority.* The cues (a case name with "v.", a citation, the name of an act, code, regulation or set of court rules) would miss a case referred to only by a description, such as "the Marrowgate case", if it appeared outside the research notes. Inside the notes it is still an item.
 - *The step list across words.* "bring Pellwick in" was read as "bring ... in"; the list does not say how far apart the two words may be.
 
-**Shortcomings of this trial.** One run, on one invented example written to fit the template, by the session that revised the template, which had read the earlier output and the review first. The stops that end the run (no question, no lawyer named, no jurisdiction, wrong index headers, no today's date) and the NOT READY lines were not exercised by the example itself; (c) below exercises the stop for a later message about the lawyer. The template's twenty-one acceptance tests have not been run. No lawyer reviewed the output. The search lines were not run anywhere, as the template intends.
+**Shortcomings of this trial.** One run, on one example written to fit the template, by the session that revised the template, which had read the earlier output and the review first. The stops that end the run (no question, no lawyer named, no jurisdiction, wrong index headers, no today's date) and the NOT READY lines were not exercised by the example itself; (c) below exercises the stop for a later message about the lawyer. The template's twenty-one acceptance tests have not been run. No lawyer reviewed the output. The search lines were not run anywhere, as the template intends.
 
 ## Pressure tests
 

@@ -257,7 +257,7 @@ For the researching lawyer, when reading the draft against the texts:
 
 ## Acceptance tests
 
-Proposed tests. They have not been run in any firm's environment. Use past research sets whose authorities a lawyer has already read closely, with client details removed, or invented sets. Tests 11 to 16 and 18 to 20 were put once to the invented example as pressure tests; the trial record says how each was handled and where the replies fell short. A decline that passes is the fixed form only: the request, the lawyer by name, one pointer, nothing restated or selected.
+Proposed tests. They have not been run in any firm's environment. Use past research sets whose authorities a lawyer has already read closely, with client details removed, or invented sets. Tests 11 to 16 and 18 to 20 were put once to the example as pressure tests; the trial record says how each was handled and where the replies fell short. A decline that passes is the fixed form only: the request, the lawyer by name, one pointer, nothing restated or selected.
 
 1. **Ordinary set**: one statute and two full opinions, one with a dissent, two points. Expected: every field filled or marked; every quotation word for word with a printed pinpoint; separate opinion only in section 4.
 2. **Excerpt.** Expected: "excerpt" in sections 1 and 8; posture, disposition and separate opinions marked "in the excerpt supplied"; nothing inferred.
