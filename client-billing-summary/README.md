@@ -3,7 +3,7 @@
 Before an invoice goes out, get a client-readable summary tied to the pre-bill, with each guideline breach sent to the attorney to decide.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client billing summary on our website](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client billing summary on our website](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-client-billing-summary&from=gh-law-firm-client-billing-summary). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

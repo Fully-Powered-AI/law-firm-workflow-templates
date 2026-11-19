@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for law firms turn the AI your firm already pays
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-readme&from=gh-law-firm-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-readme&from=gh-law-firm-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-readme&from=gh-law-firm-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=law-firm-readme&from=gh-law-firm-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,19 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn your last consultation notes into a fact record.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and replace the square brackets with your own notes. Use notes you already have and remove anything you would not paste into an assistant your firm has not approved.
 
    ```text
-   Act as a preparation assistant for a law firm's intake attorney. Below are the notes from one first consultation. Prepare a draft fact record. Mark each statement as first-hand, secondhand, the client's assumption, or basis not stated. Mark each date as confirmed, approximate or unknown, using only what the notes say. Quote exact words. Set apart the outcome the client wants. List every document mentioned but not supplied. Show contradictions and gaps without choosing between them. End with factual follow-up questions for the attorney to choose from. Name no legal issue, give no legal advice, count no time limit and clear no name. Leave out the note-taker's own comments. The attorney verifies and decides everything. Send nothing and change no record. Notes: [paste notes]. Who was present: [names and roles]. Attorney who verifies: [name].
+   Act as a preparation assistant for a law firm's intake attorney. Below
+   are the notes from one first consultation. Prepare a draft fact record.
+   Mark each statement as first-hand, secondhand, the client's assumption,
+   or basis not stated. Mark each date as confirmed, approximate or
+   unknown, using only what the notes say. Quote exact words. Set apart the
+   outcome the client wants. List every document mentioned but not
+   supplied. Show contradictions and gaps without choosing between them.
+   End with factual follow-up questions for the attorney to choose from.
+   Name no legal issue, give no legal advice, count no time limit and clear
+   no name. Leave out the note-taker's own comments. The attorney verifies
+   and decides everything. Send nothing and change no record. Notes: [paste
+   notes]. Who was present: [names and roles]. Attorney who verifies:
+   [name].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, from an invented consultation:
